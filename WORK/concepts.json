@@ -1,1 +1,16 @@
-// СПИСОК: список всех ваших статей (для координаторов)
+{
+  "concepts": [
+    {
+      "name": "Класс",
+      "file": "school_class.md"
+    },
+    {
+      "name": "Учитель",
+      "file": "teachers.md"
+    },
+    {
+      "name": "Школьная иерархия",
+      "file": "school_hierarchy.md"
+    }
+  ]
+}
