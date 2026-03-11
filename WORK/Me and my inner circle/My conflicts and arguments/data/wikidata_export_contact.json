@@ -1,0 +1,74 @@
+{
+  "head": {
+    "vars": [
+      "source",
+      "sourceLabel",
+      "property",
+      "propertyLabel",
+      "target",
+      "targetLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16546845"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180684"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1382"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ссора"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфликт"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180684"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16546845"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1382"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфликт"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ссора"
+        }
+      }
+    ]
+  }
+}
