@@ -1,0 +1,41 @@
+{
+  "project": "Моя дружба — РАЗДЕЛ: Я и ближний круг",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q2166722",
+      "conceptLabel": "предательство",
+      "description": "нарушение верности кому-либо или неисполнение долга перед кем-либо"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q2173366",
+      "conceptLabel": "привязанность",
+      "description": "чувство близости"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q5283178",
+      "conceptLabel": "социальная сеть",
+      "description": ""
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q136685084",
+      "conceptLabel": "дружба",
+      "description": ""
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q223270",
+      "conceptLabel": "одиночество",
+      "description": "внутреннее состояние человека в отсутствие близких"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q180684",
+      "conceptLabel": "конфликт",
+      "description": "существование и последствия взаимно несовместимых взглядов, позиций или интересов"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q659974",
+      "conceptLabel": "доверие",
+      "description": "использование чужой истины до её обоснования"
+    }
+  ]
+}
