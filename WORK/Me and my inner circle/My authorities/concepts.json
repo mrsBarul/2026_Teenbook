@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "На кого я равняюсь и почему",
+      "file": "role_models.md"
+    },
+    {
+      "name": "Блогеры как кумиры — в чем опасность",
+      "file": "bloggers_as_idols.md"
+    },
+    {
+      "name": "Учителя, которые вдохновляют",
+      "file": "inspiring_teachers.md"
+    },
+    {
+      "name": "Когда авторитеты подводят (кумир оказался плохим)",
+      "file": "failed_role_models.md"
+    },
+    {
+      "name": "Как не потерять себя в подражании",
+      "file": "keeping_your_identity.md"
+    }
+  ]
+}
