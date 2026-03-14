@@ -7,16 +7,32 @@ SELECT ?item ?itemLabel ?description WHERE {
     VALUES ?item {
     wd:Q223270 
     wd:Q6010868 
-    wd:Q19192960  
     wd:Q19192957 
     wd:Q908826 
-    wd:Q1910993 
     wd:Q1778765 
     wd:Q1096367  
     wd:Q309406 
     wd:Q545825   
     wd:Q4340209 
-    wd:Q545365 
+    wd:Q281928
+    wd:Q3500368
+    wd:Q64700236
+    wd:Q93190
+    wd:Q191089
+    wd:Q8436
+    wd:Q491
+
+    wd:Q60539481
+    wd:Q7551008
+    wd:Q1475848
+    wd:Q3769299
+    wd:Q30314010
+    wd:Q1920219
+    wd:Q5283089
+    wd:Q5283089
+    wd:Q1124198
+    wd:Q7551008
+    wd:Q205555
     }
 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }

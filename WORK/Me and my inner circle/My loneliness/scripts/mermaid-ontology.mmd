@@ -1,0 +1,68 @@
+%%{
+    init: {
+        'themeVariables': {
+            'fontSize': '18px',
+             'spacing': 50
+        },
+        "layout": "elk",
+        "look": "handDrawn",
+        "theme": "base"
+    }
+}%%
+
+graph LR
+    classDef mainNode font-size:40px,fill:#D0F0C0,stroke:#008000,stroke-width:5px;
+
+    subgraph Core["Ключевое переживание"]
+        Loneliness["Одиночество"]:::mainNode
+        Solitude["Уединение"]
+        Misunderstanding["Чувство непонимания"]
+        Alienation["Отчуждение"]
+    end
+
+    subgraph Social_Context["Социальные условия"]
+        SocialIsolation["Социальная изоляция"]
+        LackCommunication["Недостаток общения"]
+        LackSupport["Отсутствие поддержки"]
+    end
+
+    subgraph Personality["Личностные особенности"]
+        Introversion["Интроверсия"]
+        SocialAnxiety["Социальная тревожность"]
+        NegativeBeliefs["Негативные убеждения о себе"]
+    end
+
+    subgraph Behavior["Поведение"]
+        Avoidance["Избегание общения"]
+        SeekingContact["Поиск контакта"]
+        SelfIsolation["Самоизоляция"]
+    end
+
+    subgraph Relationships["Социальные отношения"]
+        SocialConnection["Социальные связи"]
+        Friendship["Дружба"]
+        EmotionalCloseness["Эмоциональная близость"]
+    end
+
+
+    SocialIsolation -- "может приводить к" --> Loneliness
+    LackCommunication -- "усиливает" --> Loneliness
+    LackSupport -- "способствует" --> Loneliness
+
+    Loneliness -- "может вызывать" --> Alienation
+    Loneliness -- "может сопровождаться" --> Misunderstanding
+
+    Solitude -- "отличается от" --> Loneliness
+
+    Introversion -- "влияет на" --> SeekingContact
+    SocialAnxiety -- "может вызывать" --> Avoidance
+    NegativeBeliefs -- "усиливают" --> Loneliness
+
+    Avoidance -- "может приводить к" --> SocialIsolation
+    SelfIsolation -- "усиливает" --> Loneliness
+
+    Friendship -- "является формой" --> SocialConnection
+    EmotionalCloseness -- "возникает в" --> Friendship
+
+    SocialConnection -- "снижает" --> Loneliness
+    SeekingContact -- "помогает создавать" --> SocialConnection

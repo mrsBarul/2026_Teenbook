@@ -11,12 +11,204 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223270"
+          "value": "http://www.wikidata.org/entity/Q491"
         },
         "description": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "внутреннее состояние человека в отсутствие близких"
+          "value": "позитивные бескорыстные личные взаимоотношения"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дружба"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8436"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "супруги, родственники, сожители, тесно связанные люди"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "семья"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93190"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "прекращение брачного союза"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "развод"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191089"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из возрастов, приближающихся или превосходящих продолжительность жизни человека"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "старость"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q205555"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "эмоциональный процесс человека, отражающий субъективное оценочное отношение к реальным или абстрактным объектам"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "чувство"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1920219"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вопросы и ситуации, которые прямо или косвенно влияют на человека"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные проблемы"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3769299"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "диапазон повадок Homo Sapiens"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человеческое поведение"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4340209"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психическое расстройство, характеризующееся сниженным настроением"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "депрессия"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5283089"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "негативный тип стресса"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дистресс"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5283089"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "негативный тип стресса"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дистресс"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5283089"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "негативный тип стресса"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дистресс"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5283089"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "негативный тип стресса"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дистресс"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6010868"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нахождение субъекта вне общества"
         },
         "itemLabel": {
           "xml:lang": "ru",
@@ -27,33 +219,49 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q309406"
+          "value": "http://www.wikidata.org/entity/Q19192957"
         },
         "description": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "отсутствие эмоциональных проявлений, вялость и безразличие"
+          "value": "стихотворение Блока"
         },
         "itemLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "апатия"
+          "value": "Одиночество"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q545365"
+          "value": "http://www.wikidata.org/entity/Q30314010"
         },
         "description": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "снижение или потеря способности испытывать удовольствие"
+          "value": "комплекс санитарно-эпидемиологических мероприятий немедикаментозного характера"
         },
         "itemLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "Ангедония"
+          "value": "социальное дистанцирование"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64700236"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "процесс скорби и траура, связанный с чувством утраты и грусти"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "утрата"
         }
       },
       {
@@ -107,70 +315,6 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4340209"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "психическое расстройство, характеризующееся сниженным настроением"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "депрессия"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6010868"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "нахождение субъекта вне общества"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "одиночество"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q19192957"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "стихотворение Блока"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Одиночество"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q19192960"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "стихотворение Гумилёва"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Одиночество"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q545825"
         },
         "itemLabel": {
@@ -182,12 +326,137 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1910993"
+          "value": "http://www.wikidata.org/entity/Q1124198"
         },
         "itemLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "Желтушник (человек)"
+          "value": "привязанность"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1475848"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фактор риска"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3500368"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психологический стресс"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551008"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная связь"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551008"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная связь"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551008"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная связь"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551008"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная связь"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60539481"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрицательная эмоция"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223270"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внутреннее состояние человека в отсутствие близких"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "одиночество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q281928"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "страх перед выполнением социальных действий"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "cоциофобия"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309406"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отсутствие эмоциональных проявлений, вялость и безразличие"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "апатия"
         }
       }
     ]
