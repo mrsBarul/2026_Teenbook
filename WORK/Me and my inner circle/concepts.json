@@ -11,6 +11,26 @@
     {
       "name": "Школьная иерархия: популярные, изгои, середняки",
       "file": "My relationships at school/school_hierarchy.md"
+    },
+    {
+      "name": "Как просить у родителей то, что реально нужно",
+      "file": "My family/ask_for_something.md"
+    },
+    {
+      "name": "Братья/сестры — враги или союзники",
+      "file": "My family/brothers_and_sisters.md"
+    },
+    {
+      "name": "Если в семье развод или конфликты",
+      "file": "My family/divorce.md"
+    },
+    {
+      "name": "Семейные традиции — это скучно или важно",
+      "file": "My family/family_traditions.md"
+    },
+    {
+      "name": "Мои отношения с семьей: почему родители бесят и как с этим жить",
+      "file": "My family/parents.md"
     }
   ]
 }

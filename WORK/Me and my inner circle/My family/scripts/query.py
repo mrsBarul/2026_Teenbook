@@ -11,17 +11,18 @@ SELECT ?item ?itemLabel ?description WHERE {
   VALUES ?item {
     wd:Q1492760    # Подросток
     wd:Q7566       # Родители
-    wd:Q10861465    # Брат
-    wd:Q595094    # Сестра
-    wd:Q124674557   # Сепарация
+    wd:Q10861465   # Брат
+    wd:Q595094     # Сестра
+    wd:Q124674557  # Сепарация
     wd:Q180684     # Конфликт
     wd:Q378529     # Примирение
     wd:Q93190      # Развод
     wd:Q7002058    # Границы
-    wd:Q82821     # Традиции
+    wd:Q82821      # Традиции
     wd:Q11024      # Общение
     wd:Q182263     # Эмпатия
     wd:Q537963     # Прощение
+    wd:Q22445448   # Просьба
   }
   
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
@@ -38,40 +39,48 @@ CONTACTS_QUERY = """
 SELECT ?source ?sourceLabel ?property ?propertyLabel ?target ?targetLabel WHERE {
   VALUES (?source ?target ?property) {
     # Семейные связи
-    (wd:Q1492760 wd:Q7566 wdt:P40)        # подросток → родители (имеет родителя)
-    (wd:Q1492760 wd:Q10861465 wdt:P451)   # подросток → брат (имеет родственника)
-    (wd:Q1492760 wd:Q595094 wdt:P451)     # подросток → сестра (имеет родственника)
-    (wd:Q7566 wd:Q1492760 wdt:P40)        # родители → подросток (имеют ребёнка)
+    (wd:Q1492760 wd:Q7566 wdt:P40)
+    (wd:Q1492760 wd:Q10861465 wdt:P451)
+    (wd:Q1492760 wd:Q595094 wdt:P451)
+    (wd:Q7566 wd:Q1492760 wdt:P40)
     
     # Процессы и отношения
-    (wd:Q1492760 wd:Q124674557 wdt:P129)  # подросток → сепарация (связан с)
-    (wd:Q124674557 wd:Q180684 wdt:P129)   # сепарация → конфликт (связан с)
-    (wd:Q180684 wd:Q378529 wdt:P1382)     # конфликт → примирение (частично совпадает)
+    (wd:Q1492760 wd:Q124674557 wdt:P129)
+    (wd:Q124674557 wd:Q180684 wdt:P129)
+    (wd:Q180684 wd:Q378529 wdt:P1382)
     
     # Развод и его последствия
-    (wd:Q93190 wd:Q1492760 wdt:P129)      # развод → подросток (связан с)
-    (wd:Q93190 wd:Q180684 wdt:P129)       # развод → конфликт (связан с)
-    (wd:Q93190 wd:Q82821 wdt:P129)        # развод → традиции (связан с)
-    (wd:Q93190 wd:Q7566 wdt:P129)         # развод → родители (связан с)
+    (wd:Q93190 wd:Q1492760 wdt:P129)
+    (wd:Q93190 wd:Q180684 wdt:P129)
+    (wd:Q93190 wd:Q82821 wdt:P129)
+    (wd:Q93190 wd:Q7566 wdt:P129)
     
     # Эмоции и качества
-    (wd:Q182263 wd:Q378529 wdt:P129)      # эмпатия → примирение (связан с)
-    (wd:Q537963 wd:Q378529 wdt:P129)      # прощение → примирение (связан с)
-    (wd:Q7002058 wd:Q180684 wdt:P1535)    # границы → конфликт (препятствует)
-    (wd:Q11024 wd:Q378529 wdt:P129)       # общение → примирение (связан с)
+    (wd:Q182263 wd:Q378529 wdt:P129)
+    (wd:Q537963 wd:Q378529 wdt:P129)
+    (wd:Q7002058 wd:Q180684 wdt:P1535)
+    (wd:Q11024 wd:Q378529 wdt:P129)
     
     # Традиции
-    (wd:Q82821 wd:Q7566 wdt:P129)         # традиции → родители (связан с)
-    (wd:Q82821 wd:Q10861465 wdt:P129)     # традиции → брат (связан с)
-    (wd:Q82821 wd:Q595094 wdt:P129)       # традиции → сестра (связан с)
-    (wd:Q82821 wd:Q1492760 wdt:P129)      # традиции → подросток (связан с)
-    (wd:Q82821 wd:Q378529 wdt:P129)       # традиции → примирение (связан с)
+    (wd:Q82821 wd:Q7566 wdt:P129)
+    (wd:Q82821 wd:Q10861465 wdt:P129)
+    (wd:Q82821 wd:Q595094 wdt:P129)
+    (wd:Q82821 wd:Q1492760 wdt:P129)
+    (wd:Q82821 wd:Q378529 wdt:P129)
     
     # Брат/сестра взаимодействия
-    (wd:Q10861465 wd:Q180684 wdt:P129)    # брат → конфликт (связан с)
-    (wd:Q595094 wd:Q180684 wdt:P129)      # сестра → конфликт (связан с)
-    (wd:Q10861465 wd:Q378529 wdt:P129)    # брат → примирение (связан с)
-    (wd:Q595094 wd:Q378529 wdt:P129)      # сестра → примирение (связан с)
+    (wd:Q10861465 wd:Q180684 wdt:P129)
+    (wd:Q595094 wd:Q180684 wdt:P129)
+    (wd:Q10861465 wd:Q378529 wdt:P129)
+    (wd:Q595094 wd:Q378529 wdt:P129)
+    
+    # Просьба и её связи 
+    (wd:Q22445448 wd:Q7566 wdt:P129)
+    (wd:Q22445448 wd:Q7002058 wdt:P129)
+    (wd:Q22445448 wd:Q11024 wdt:P129)
+    (wd:Q22445448 wd:Q378529 wdt:P129)
+    (wd:Q22445448 wd:Q182263 wdt:P129)
+    (wd:Q180684 wd:Q22445448 wdt:P129)
   }
   
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
@@ -82,11 +91,12 @@ def run_query(query: str, retries: int = 3) -> dict:
     """Выполняет SPARQL-запрос к Wikidata с повторными попытками"""
     headers = {
         "Accept": "application/sparql-results+json",
-        "User-Agent": "family-ontology-builder/1.0"
+        "User-Agent": "teenbook-authorities-project/1.0 (educational project)"
     }
     
     for attempt in range(retries):
         try:
+            print(f"Выполнение запроса (попытка {attempt + 1})...")
             response = requests.get(
                 URL,
                 params={"query": query, "format": "json"},
@@ -94,47 +104,21 @@ def run_query(query: str, retries: int = 3) -> dict:
                 timeout=30
             )
             response.raise_for_status()
+            print("Запрос успешно выполнен")
             return response.json()
-        except Exception as e:
-            print(f"Попытка {attempt + 1} не удалась: {e}")
+        except requests.exceptions.RequestException as e:
+            print(f"Ошибка сети: {e}")
             if attempt < retries - 1:
-                time.sleep(2 ** attempt)  # Экспоненциальная задержка
+                wait = 2 ** attempt
+                print(f"Ожидание {wait} секунд...")
+                time.sleep(wait)
             else:
                 print("Все попытки исчерпаны")
-                return {"head": {"vars": []}, "results": {"bindings": []}}
-
-def add_custom_entries(data: dict) -> dict:
-    """Добавляет ручные записи для понятий, отсутствующих в Wikidata"""
-    custom_bindings = [
-        # Просьба (отсутствует в Wikidata)
-        {
-            "source": {"type": "uri", "value": "http://example.org/Q9000001"},
-            "sourceLabel": {"xml:lang": "ru", "type": "literal", "value": "просьба"},
-            "property": {"type": "uri", "value": "http://www.wikidata.org/entity/P129"},
-            "propertyLabel": {"xml:lang": "ru", "type": "literal", "value": "связан с"},
-            "target": {"type": "uri", "value": "http://www.wikidata.org/entity/Q7566"},
-            "targetLabel": {"xml:lang": "ru", "type": "literal", "value": "родители"}
-        },
-        {
-            "source": {"type": "uri", "value": "http://example.org/Q9000001"},
-            "sourceLabel": {"xml:lang": "ru", "type": "literal", "value": "просьба"},
-            "property": {"type": "uri", "value": "http://www.wikidata.org/entity/P129"},
-            "propertyLabel": {"xml:lang": "ru", "type": "literal", "value": "связан с"},
-            "target": {"type": "uri", "value": "http://www.wikidata.org/entity/Q1144876"},
-            "targetLabel": {"xml:lang": "ru", "type": "literal", "value": "границы"}
-        },
-        {
-            "source": {"type": "uri", "value": "http://example.org/Q9000001"},
-            "sourceLabel": {"xml:lang": "ru", "type": "literal", "value": "просьба"},
-            "property": {"type": "uri", "value": "http://www.wikidata.org/entity/P129"},
-            "propertyLabel": {"xml:lang": "ru", "type": "literal", "value": "связан с"},
-            "target": {"type": "uri", "value": "http://www.wikidata.org/entity/Q182263"},
-            "targetLabel": {"xml:lang": "ru", "type": "literal", "value": "эмпатия"}
-        }
-    ]
+        except json.JSONDecodeError as e:
+            print(f"Ошибка парсинга ответа: {e}")
+            break
     
-    data["results"]["bindings"].extend(custom_bindings)
-    return data
+    return {"head": {"vars": []}, "results": {"bindings": []}}
 
 def save_result(data: dict, output_path: str) -> None:
     """Сохраняет результат в JSON-файл"""
@@ -144,18 +128,16 @@ def save_result(data: dict, output_path: str) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
-    print(f"Сохранено {len(data.get('results', {}).get('bindings', []))} записей в {output_path}")
+    count = len(data.get('results', {}).get('bindings', []))
+    print(f"Сохранено {count} записей в {output_path}")
 
-print("Запрос элементов из Wikidata...")
 items_data = run_query(ITEMS_QUERY)
-if items_data:
+if items_data and "results" in items_data:
     save_result(items_data, "./data/wikidata_export.json")
 
-print("\nЗапрос связей из Wikidata...")
+print("\n=== ЗАПРОС СВЯЗЕЙ ИЗ WIKIDATA ===\n")
 contacts_data = run_query(CONTACTS_QUERY)
-if contacts_data:
-    # Добавляем ручные записи для "просьбы"
-    contacts_data = add_custom_entries(contacts_data)
+if contacts_data and "results" in contacts_data:
     save_result(contacts_data, "./data/wikidata_export_contact.json")
 
-print("\nГотово!")
+print("\n✅ Готово! Все файлы сохранены в ./data/")

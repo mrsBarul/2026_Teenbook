@@ -11,6 +11,38 @@
       {
         "item": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10861465"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мужской сиблинг"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "брат"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22445448"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "действие обращения в любом виде для получения чего-либо"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запрос"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q7566"
         },
         "description": {
@@ -38,102 +70,6 @@
           "xml:lang": "ru",
           "type": "literal",
           "value": "общение"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q10861465"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "мужской сиблинг"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "брат"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q82821"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "что передаётся из поколения в поколение"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "традиция"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q93190"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "прекращение брачного союза"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "развод"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q180684"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "существование и последствия взаимно несовместимых взглядов, позиций или интересов"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "конфликт"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q182263"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "осознанное сопереживание другому человеку"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "эмпатия"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q378529"
-        },
-        "description": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "восстановление дружеских отношений"
-        },
-        "itemLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "примирение"
         }
       },
       {
@@ -199,6 +135,86 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "parental separation"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180684"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "существование и последствия взаимно несовместимых взглядов, позиций или интересов"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфликт"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182263"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "осознанное сопереживание другому человеку"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "эмпатия"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q378529"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "восстановление дружеских отношений"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "примирение"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82821"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "что передаётся из поколения в поколение"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "традиция"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93190"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "прекращение брачного союза"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "развод"
         }
       }
     ]

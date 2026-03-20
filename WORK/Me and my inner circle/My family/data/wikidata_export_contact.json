@@ -686,88 +686,169 @@
       {
         "source": {
           "type": "uri",
-          "value": "http://example.org/Q9000001"
-        },
-        "sourceLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "просьба"
-        },
-        "property": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/P129"
-        },
-        "propertyLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "связан с"
+          "value": "http://www.wikidata.org/entity/Q22445448"
         },
         "target": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q7566"
         },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запрос"
+        },
+        "propertyLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
         "targetLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "родители"
+          "value": "родитель"
         }
       },
       {
         "source": {
           "type": "uri",
-          "value": "http://example.org/Q9000001"
-        },
-        "sourceLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "просьба"
-        },
-        "property": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/P129"
-        },
-        "propertyLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "связан с"
+          "value": "http://www.wikidata.org/entity/Q22445448"
         },
         "target": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1144876"
+          "value": "http://www.wikidata.org/entity/Q7002058"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запрос"
+        },
+        "propertyLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P129"
         },
         "targetLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "границы"
+          "value": "психологические границы"
         }
       },
       {
         "source": {
           "type": "uri",
-          "value": "http://example.org/Q9000001"
+          "value": "http://www.wikidata.org/entity/Q22445448"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P129"
         },
         "sourceLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "просьба"
+          "value": "запрос"
+        },
+        "propertyLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22445448"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q378529"
         },
         "property": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/P129"
+          "value": "http://www.wikidata.org/prop/direct/P129"
         },
-        "propertyLabel": {
+        "sourceLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "связан с"
+          "value": "запрос"
+        },
+        "propertyLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "примирение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22445448"
         },
         "target": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q182263"
         },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запрос"
+        },
+        "propertyLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
         "targetLabel": {
           "xml:lang": "ru",
           "type": "literal",
           "value": "эмпатия"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180684"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22445448"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфликт"
+        },
+        "propertyLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P129"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запрос"
         }
       }
     ]
