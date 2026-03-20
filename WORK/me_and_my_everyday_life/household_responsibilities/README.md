@@ -60,3 +60,32 @@ flowchart TD
     I --> J[Самостоятельность]
     A --> I
     H --> B
+```
+
+## SPARQL-запрос
+
+Использовал один запрос — на получение понятий и их описаний из WikiData:
+
+```sparql
+SELECT ?item ?itemLabel ?description WHERE {
+  VALUES ?item {
+    wd:Q4368245       # подросток
+    wd:Q8436          # семья
+    wd:Lexeme:L136354 # обязанность
+    wd:Q6316865       # справедливость
+    wd:Lexeme:L106803 # договорённость
+    wd:Q644302        # мотивация
+    wd:Q2421951       # забота
+    wd:Q1079196       # команда
+    wd:Q205961        # навык
+    wd:Q3236990       # самостоятельность
+  }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+
+  OPTIONAL {
+    ?item schema:description ?description .
+    FILTER(LANG(?description) = "ru")
+  }
+}
+```
