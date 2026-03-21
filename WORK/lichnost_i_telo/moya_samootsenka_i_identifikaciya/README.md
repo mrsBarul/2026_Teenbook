@@ -177,7 +177,7 @@ ORDER BY ?item
 ### 6. Автоматизация
 
 - Python-скрипт `scripts/sparql_query.py` — запрос к Wikidata, сохранение JSON, построение графа и `images/ontology.png`;
-- Python-скрипт `scripts/link_states.py` и `link_map.json` — перекрёстные ссылки между статьями;
+- Python-скрипт `scripts/link_states.py` и `link_map.json` — перекрёстные ссылки между статьями (обязательно с флагом записи: `python -m link_states --write --yes` из папки `scripts`; без `--write` скрипт только показывает, что изменилось бы, и файлы не трогает);
 - `concepts.json` — навигация по статьям энциклопедии.
 
 См. также общее описание лабораторной в [README_TeenBook_lab.md](./README_TeenBook_lab.md) (шаблон курса).
