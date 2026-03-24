@@ -1,15 +1,15 @@
 {
-  "topic": "Моя информационная гигиена",
+  "topic": "Моя безопасность в сети, приватность, публикация",
   "status": "template_for_real_export",
-  "source": "WikiData",
+  "source": "DBpedia",
   "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
   "seed_labels": [
-    "misinformation",
-    "news",
+    "privacy",
+    "personal data",
+    "cyberbullying",
     "social media",
-    "bot",
-    "recommender system",
-    "troll"
+    "digital footprint",
+    "phishing"
   ],
   "suggested_queries": [
     "QUERY_FIND_BY_LABEL",
@@ -24,11 +24,11 @@
   ],
   "sample_manual_rows": [
     {
-      "label": "misinformation",
+      "label": "privacy",
       "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "label": "news",
+      "label": "personal data",
       "why_useful": "подходит как второе стартовое понятие"
     }
   ]

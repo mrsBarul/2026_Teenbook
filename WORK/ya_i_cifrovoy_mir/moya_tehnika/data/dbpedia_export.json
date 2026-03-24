@@ -1,15 +1,15 @@
 {
-  "topic": "Моя информационная гигиена",
+  "topic": "Моя техника",
   "status": "template_for_real_export",
-  "source": "WikiData",
+  "source": "DBpedia",
   "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
   "seed_labels": [
-    "misinformation",
-    "news",
-    "social media",
-    "bot",
-    "recommender system",
-    "troll"
+    "smartphone",
+    "laptop",
+    "computer",
+    "battery",
+    "computer hardware",
+    "software"
   ],
   "suggested_queries": [
     "QUERY_FIND_BY_LABEL",
@@ -24,11 +24,11 @@
   ],
   "sample_manual_rows": [
     {
-      "label": "misinformation",
+      "label": "smartphone",
       "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "label": "news",
+      "label": "laptop",
       "why_useful": "подходит как второе стартовое понятие"
     }
   ]

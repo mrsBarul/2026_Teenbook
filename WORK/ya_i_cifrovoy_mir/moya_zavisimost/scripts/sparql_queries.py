@@ -1,67 +1,141 @@
 from textwrap import dedent
 
-# Черновые SPARQL-запросы для темы: Моя зависимость
-# При желании запросы можно запускать через SPARQLWrapper или прямо в Wikidata Query Service.
+"""
+SPARQL-запросы для темы: Моя зависимость
 
-QUERY_LABEL_SEARCH = dedent("""
-SELECT ?item ?itemLabel WHERE {
-  VALUES ?label { "screen time"@en "smartphone"@en "sleep"@en }
+Как использовать:
+1. Открыть Wikidata Query Service.
+2. Скопировать один из запросов ниже.
+3. При необходимости уточнить seed-метки или заменить их на QID.
+4. Сохранить реальную выгрузку в папку data/.
+
+Фокусные свойства/отношения: instance of, subclass of, part of, has use, influenced by
+"""
+
+SEED_LABELS = [
+    "screen time",
+    "smartphone",
+    "sleep",
+    "attention",
+    "digital detox",
+    "social media",
+]
+
+QUERY_FIND_BY_LABEL = dedent("""
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?item ?itemLabel ?label WHERE {
+  VALUES ?label {
+    "screen time"@en
+    "smartphone"@en
+    "sleep"@en
+    "attention"@en
+    "digital detox"@en
+    "social media"@en
+  }
   ?item rdfs:label ?label .
   FILTER(LANG(?label) = "en")
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
 }
-LIMIT 50
+LIMIT 100
 """)
 
-QUERY_SUBCLASSES_AND_INSTANCEOF = dedent("""
-SELECT ?seed ?seedLabel ?related ?relatedLabel ?relationLabel WHERE {
+QUERY_EXPAND_CLASS_TREE = dedent("""
+SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {
   VALUES ?seedLabel {
     "screen time"@en
     "smartphone"@en
     "sleep"@en
     "attention"@en
     "digital detox"@en
+    "social media"@en
   }
   ?seed rdfs:label ?seedLabel .
   FILTER(LANG(?seedLabel) = "en")
 
   {
     ?related wdt:P31 ?seed .
-    BIND("instance of"@en AS ?relationLabel)
+    BIND("instance of" AS ?relation)
   }
   UNION
   {
     ?related wdt:P279 ?seed .
-    BIND("subclass of"@en AS ?relationLabel)
+    BIND("subclass of" AS ?relation)
   }
 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 150
+""")
+
+QUERY_LOCAL_GRAPH = dedent("""
+# Локальный граф по seed-понятиям.
+SELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {
+  VALUES ?startLabel {
+    "screen time"@en
+    "smartphone"@en
+    "sleep"@en
+    "attention"@en
+    "digital detox"@en
+    "social media"@en
+  }
+  ?item1 rdfs:label ?startLabel .
+  FILTER(LANG(?startLabel) = "en")
+  ?item1 ?p ?item2 .
+  FILTER(STRSTARTS(STR(?item2), "http://www.wikidata.org/entity/"))
+  ?prop wikibase:directClaim ?p .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+  BIND(?propLabel AS ?propLabel)
+}
+LIMIT 200
+""")
+
+QUERY_REVERSE_GRAPH = dedent("""
+# Кто ссылается на найденные сущности.
+SELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {
+  VALUES ?targetLabel {
+    "screen time"@en
+    "smartphone"@en
+    "sleep"@en
+    "attention"@en
+    "digital detox"@en
+    "social media"@en
+  }
+  ?item2 rdfs:label ?targetLabel .
+  FILTER(LANG(?targetLabel) = "en")
+  ?item1 ?p ?item2 .
+  FILTER(STRSTARTS(STR(?item1), "http://www.wikidata.org/entity/"))
+  ?prop wikibase:directClaim ?p .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+  BIND(?propLabel AS ?propLabel)
+}
+LIMIT 200
+""")
+
+QUERY_DBPEDIA_LOOKUP = dedent("""
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?item ?label WHERE {
+  VALUES ?label {
+    "screen time"@en
+    "smartphone"@en
+    "sleep"@en
+    "attention"@en
+    "digital detox"@en
+    "social media"@en
+  }
+  ?item rdfs:label ?label .
+  FILTER(LANG(?label) = "en")
 }
 LIMIT 100
 """)
 
-QUERY_SIMPLE_GRAPH = dedent("""
-# Шаблон графового запроса по мотивам примера из методички.
-SELECT DISTINCT ?item1 ?item1Label ?item2 ?item2Label WHERE {
-  VALUES ?startLabel {
-    "screen time"@en
-    "smartphone"@en
-  }
-  ?start rdfs:label ?startLabel .
-  FILTER(LANG(?startLabel) = "en")
-  VALUES ?item1 { ?start }
-  ?item1 ?p ?item2 .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
-}
-LIMIT 80
-""")
-
 if __name__ == "__main__":
-    print("=== QUERY_LABEL_SEARCH ===")
-    print(QUERY_LABEL_SEARCH)
-    print() 
-    print("=== QUERY_SUBCLASSES_AND_INSTANCEOF ===")
-    print(QUERY_SUBCLASSES_AND_INSTANCEOF)
-    print() 
-    print("=== QUERY_SIMPLE_GRAPH ===")
-    print(QUERY_SIMPLE_GRAPH)
+    for name in [
+        "QUERY_FIND_BY_LABEL",
+        "QUERY_EXPAND_CLASS_TREE",
+        "QUERY_LOCAL_GRAPH",
+        "QUERY_REVERSE_GRAPH",
+        "QUERY_DBPEDIA_LOOKUP",
+    ]:
+        print(f"=== {name} ===")
+        print(globals()[name])
+        print()

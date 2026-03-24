@@ -1,15 +1,14 @@
 {
-  "topic": "Моя информационная гигиена",
+  "topic": "Мои игры",
   "status": "template_for_real_export",
-  "source": "WikiData",
+  "source": "DBpedia",
   "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
   "seed_labels": [
-    "misinformation",
-    "news",
-    "social media",
-    "bot",
-    "recommender system",
-    "troll"
+    "video game",
+    "esports",
+    "online game",
+    "microtransaction",
+    "gaming community"
   ],
   "suggested_queries": [
     "QUERY_FIND_BY_LABEL",
@@ -24,11 +23,11 @@
   ],
   "sample_manual_rows": [
     {
-      "label": "misinformation",
+      "label": "video game",
       "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "label": "news",
+      "label": "esports",
       "why_useful": "подходит как второе стартовое понятие"
     }
   ]

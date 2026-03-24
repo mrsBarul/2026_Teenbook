@@ -1,56 +1,35 @@
 {
-  "status": "draft_placeholder",
   "topic": "Моя техника",
-  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
-  "expected_sources": [
-    "Wikidata",
-    "DBpedia"
-  ],
-  "query_terms": [
+  "status": "template_for_real_export",
+  "source": "WikiData",
+  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "seed_labels": [
     "smartphone",
     "laptop",
+    "computer",
+    "battery",
     "computer hardware",
-    "repair",
-    "software application"
+    "software"
   ],
-  "sample_nodes": [
-    "устройство",
-    "смартфон",
-    "ноутбук",
-    "компьютер",
-    "приложение",
-    "ремонт"
+  "suggested_queries": [
+    "QUERY_FIND_BY_LABEL",
+    "QUERY_EXPAND_CLASS_TREE",
+    "QUERY_LOCAL_GRAPH"
   ],
-  "sample_relations": [
+  "expected_fields": [
+    "item",
+    "itemLabel",
+    "propLabel",
+    "relatedLabel"
+  ],
+  "sample_manual_rows": [
     {
-      "source": "смартфон",
-      "target": "устройство",
-      "label": "является видом"
+      "label": "smartphone",
+      "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "source": "ноутбук",
-      "target": "устройство",
-      "label": "является видом"
-    },
-    {
-      "source": "компьютер",
-      "target": "устройство",
-      "label": "является видом"
-    },
-    {
-      "source": "приложение",
-      "target": "задачи",
-      "label": "помогает решать"
-    },
-    {
-      "source": "ремонт",
-      "target": "устройство",
-      "label": "восстанавливает"
-    },
-    {
-      "source": "апгрейд",
-      "target": "устройство",
-      "label": "улучшает"
+      "label": "laptop",
+      "why_useful": "подходит как второе стартовое понятие"
     }
   ]
 }

@@ -1,56 +1,34 @@
 {
-  "status": "draft_placeholder",
   "topic": "Мои игры",
-  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
-  "expected_sources": [
-    "Wikidata",
-    "DBpedia"
-  ],
-  "query_terms": [
+  "status": "template_for_real_export",
+  "source": "WikiData",
+  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "seed_labels": [
     "video game",
     "esports",
-    "online community",
+    "online game",
     "microtransaction",
-    "gaming"
+    "gaming community"
   ],
-  "sample_nodes": [
-    "видеоигра",
-    "хобби",
-    "зависимость",
-    "киберспорт",
-    "команда",
-    "сообщество"
+  "suggested_queries": [
+    "QUERY_FIND_BY_LABEL",
+    "QUERY_EXPAND_CLASS_TREE",
+    "QUERY_LOCAL_GRAPH"
   ],
-  "sample_relations": [
+  "expected_fields": [
+    "item",
+    "itemLabel",
+    "propLabel",
+    "relatedLabel"
+  ],
+  "sample_manual_rows": [
     {
-      "source": "видеоигра",
-      "target": "хобби",
-      "label": "может быть"
+      "label": "video game",
+      "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "source": "видеоигра",
-      "target": "зависимость",
-      "label": "иногда превращается в"
-    },
-    {
-      "source": "киберспорт",
-      "target": "команда",
-      "label": "требует"
-    },
-    {
-      "source": "сообщество",
-      "target": "игрок",
-      "label": "объединяет"
-    },
-    {
-      "source": "донат",
-      "target": "бюджет",
-      "label": "расходует"
-    },
-    {
-      "source": "баланс",
-      "target": "хобби",
-      "label": "поддерживает"
+      "label": "esports",
+      "why_useful": "подходит как второе стартовое понятие"
     }
   ]
 }

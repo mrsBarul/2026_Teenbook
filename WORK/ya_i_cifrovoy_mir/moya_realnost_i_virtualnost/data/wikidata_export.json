@@ -1,56 +1,34 @@
 {
-  "status": "draft_placeholder",
   "topic": "Моя реальность/виртуальность",
-  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
-  "expected_sources": [
-    "Wikidata",
-    "DBpedia"
-  ],
-  "query_terms": [
-    "online identity",
+  "status": "template_for_real_export",
+  "source": "WikiData",
+  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "seed_labels": [
+    "virtual community",
     "social network",
-    "friendship",
+    "online identity",
     "fear of missing out",
-    "virtual community"
+    "interpersonal relationship"
   ],
-  "sample_nodes": [
-    "онлайн",
-    "офлайн",
-    "личность",
-    "образ",
-    "дружба",
-    "общение"
+  "suggested_queries": [
+    "QUERY_FIND_BY_LABEL",
+    "QUERY_EXPAND_CLASS_TREE",
+    "QUERY_LOCAL_GRAPH"
   ],
-  "sample_relations": [
+  "expected_fields": [
+    "item",
+    "itemLabel",
+    "propLabel",
+    "relatedLabel"
+  ],
+  "sample_manual_rows": [
     {
-      "source": "онлайн",
-      "target": "офлайн",
-      "label": "дополняет"
+      "label": "virtual community",
+      "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "source": "образ",
-      "target": "личность",
-      "label": "представляет"
-    },
-    {
-      "source": "соцсеть",
-      "target": "FOMO",
-      "label": "усиливает"
-    },
-    {
-      "source": "дружба",
-      "target": "общение",
-      "label": "строится через"
-    },
-    {
-      "source": "баланс",
-      "target": "онлайн",
-      "label": "ограничивает"
-    },
-    {
-      "source": "баланс",
-      "target": "офлайн",
-      "label": "поддерживает"
+      "label": "social network",
+      "why_useful": "подходит как второе стартовое понятие"
     }
   ]
 }

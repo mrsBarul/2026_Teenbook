@@ -1,7 +1,7 @@
 {
   "topic": "Моя информационная гигиена",
   "status": "template_for_real_export",
-  "source": "WikiData",
+  "source": "DBpedia",
   "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
   "seed_labels": [
     "misinformation",

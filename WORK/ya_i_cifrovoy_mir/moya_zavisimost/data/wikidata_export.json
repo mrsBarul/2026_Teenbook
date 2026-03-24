@@ -1,56 +1,35 @@
 {
-  "status": "draft_placeholder",
   "topic": "Моя зависимость",
-  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
-  "expected_sources": [
-    "Wikidata",
-    "DBpedia"
-  ],
-  "query_terms": [
+  "status": "template_for_real_export",
+  "source": "WikiData",
+  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "seed_labels": [
     "screen time",
-    "smartphone",
+    " smartphone",
     "sleep",
     "attention",
-    "digital detox"
+    "digital detox",
+    "social media"
   ],
-  "sample_nodes": [
-    "экранное время",
-    "скроллинг",
-    "уведомления",
-    "сон",
-    "внимание",
-    "привычка"
+  "suggested_queries": [
+    "QUERY_FIND_BY_LABEL",
+    "QUERY_EXPAND_CLASS_TREE",
+    "QUERY_LOCAL_GRAPH"
   ],
-  "sample_relations": [
+  "expected_fields": [
+    "item",
+    "itemLabel",
+    "propLabel",
+    "relatedLabel"
+  ],
+  "sample_manual_rows": [
     {
-      "source": "скроллинг",
-      "target": "экранное время",
-      "label": "увеличивает"
+      "label": "screen time",
+      "why_useful": "может стать отправной точкой для построения графа"
     },
     {
-      "source": "уведомления",
-      "target": "внимание",
-      "label": "отвлекают"
-    },
-    {
-      "source": "экранное время",
-      "target": "сон",
-      "label": "влияет на"
-    },
-    {
-      "source": "цифровой детокс",
-      "target": "экранное время",
-      "label": "снижает"
-    },
-    {
-      "source": "привычка",
-      "target": "день",
-      "label": "формирует"
-    },
-    {
-      "source": "отдых",
-      "target": "внимание",
-      "label": "восстанавливает"
+      "label": " smartphone",
+      "why_useful": "подходит как второе стартовое понятие"
     }
   ]
 }

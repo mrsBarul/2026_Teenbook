@@ -1,113 +1,315 @@
 {
   "section": "Раздел 6. Я и цифровой мир",
-  "topic": "Моя безопасность в сети, приватность, публикация",
-  "slug": "moya_bezopasnost_v_seti",
-  "status": "draft",
+  "section_slug": "ya_i_cifrovoy_mir",
+  "topic": {
+    "slug": "moya_bezopasnost_v_seti",
+    "title": "Моя безопасность в сети, приватность, публикация",
+    "description": "Тема о личных данных, приватности, цифровом следе и безопасном поведении онлайн.",
+    "status": "draft_ready",
+    "keywords": [
+      "приватность",
+      "кибербуллинг",
+      "посты",
+      "след",
+      "знакомства"
+    ],
+    "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti",
+    "work_path": "WORK/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti"
+  },
   "articles": [
     {
       "id": "chto_mozhno_i_nelzya_postit",
+      "slug": "chto_mozhno_i_nelzya_postit",
       "title": "Что можно и нельзя постить",
+      "summary": "Как понять, какой контент безопасно публиковать, а какой лучше оставить при себе.",
       "keywords": [
-        "публикация",
-        "личные данные",
         "пост",
-        "согласие"
+        "публикация",
+        "безопасность",
+        "фото"
       ],
-      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/chto_mozhno_i_nelzya_postit.md"
+      "aliases": [
+        "что можно постить",
+        "публикация"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/chto_mozhno_i_nelzya_postit.md",
+      "related_articles": [
+        "nastroyki_privatnosti",
+        "cifrovoi_sled",
+        "virtualnaya_lichnost"
+      ],
+      "wikidata_seed_labels": [
+        "privacy",
+        "personal data",
+        "cyberbullying",
+        "social media"
+      ]
     },
     {
       "id": "kiberbulling",
+      "slug": "kiberbulling",
       "title": "Кибербуллинг: что делать, если травят",
+      "summary": "Почему не нужно терпеть цифровую травлю в одиночку и как правильно просить помощи.",
       "keywords": [
         "кибербуллинг",
         "травля",
-        "жалоба",
-        "безопасность"
+        "помощь",
+        "жалоба"
       ],
-      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/kiberbulling.md"
+      "aliases": [
+        "кибербуллинг",
+        "травля в сети"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/kiberbulling.md",
+      "related_articles": [
+        "kto_takie_boty_i_trolli",
+        "znakomstva_v_seti_i_v_zhizni",
+        "chto_mozhno_i_nelzya_postit"
+      ],
+      "wikidata_seed_labels": [
+        "privacy",
+        "personal data",
+        "cyberbullying",
+        "social media"
+      ]
     },
     {
       "id": "opasnye_znakomstva_v_seti",
+      "slug": "opasnye_znakomstva_v_seti",
       "title": "Опасные знакомства в сети",
+      "summary": "Какие сигналы помогают заметить обман, давление или манипуляцию при онлайн-знакомстве.",
       "keywords": [
         "знакомства",
-        "незнакомец",
-        "мошенничество",
-        "личные данные"
+        "опасность",
+        "обман",
+        "доверие"
       ],
-      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/opasnye_znakomstva_v_seti.md"
+      "aliases": [
+        "опасные знакомства",
+        "знакомства в сети"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/opasnye_znakomstva_v_seti.md",
+      "related_articles": [
+        "znakomstva_v_seti_i_v_zhizni",
+        "nastroyki_privatnosti",
+        "kiberbulling"
+      ],
+      "wikidata_seed_labels": [
+        "privacy",
+        "personal data",
+        "cyberbullying",
+        "social media"
+      ]
     },
     {
       "id": "nastroyki_privatnosti",
+      "slug": "nastroyki_privatnosti",
       "title": "Настройки приватности: как защититься",
+      "summary": "Зачем ограничивать видимость профиля, геометок и личных данных.",
       "keywords": [
         "приватность",
         "настройки",
         "профиль",
         "защита"
       ],
-      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/nastroyki_privatnosti.md"
+      "aliases": [
+        "настройки приватности",
+        "приватность"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/nastroyki_privatnosti.md",
+      "related_articles": [
+        "cifrovoi_sled",
+        "chto_mozhno_i_nelzya_postit",
+        "opasnye_znakomstva_v_seti"
+      ],
+      "wikidata_seed_labels": [
+        "privacy",
+        "personal data",
+        "cyberbullying",
+        "social media"
+      ]
     },
     {
       "id": "cifrovoi_sled",
+      "slug": "cifrovoi_sled",
       "title": "Цифровой след: увидят ли внуки мои фото",
+      "summary": "Почему всё, что попало в сеть, может жить дольше, чем кажется.",
       "keywords": [
         "цифровой след",
-        "данные",
         "память интернета",
-        "аккаунт"
+        "фото",
+        "репутация"
       ],
-      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/cifrovoi_sled.md"
+      "aliases": [
+        "цифровой след",
+        "след в интернете"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/cifrovoi_sled.md",
+      "related_articles": [
+        "chto_mozhno_i_nelzya_postit",
+        "virtualnaya_lichnost",
+        "nastroyki_privatnosti"
+      ],
+      "wikidata_seed_labels": [
+        "privacy",
+        "personal data",
+        "cyberbullying",
+        "social media"
+      ]
     }
   ],
-  "concept_nodes": [
-    "приватность",
-    "личные данные",
-    "пост",
-    "цифровой след",
-    "кибербуллинг",
-    "знакомство",
-    "пароль",
-    "2FA",
-    "аккаунт",
-    "границы"
-  ],
-  "relations": [
-    {
-      "source": "пост",
-      "target": "цифровой след",
-      "type": "related",
-      "label": "оставляет"
-    },
-    {
-      "source": "приватность",
-      "target": "личные данные",
-      "type": "related",
-      "label": "защищает"
-    },
-    {
-      "source": "пароль",
-      "target": "аккаунт",
-      "type": "related",
-      "label": "защищает"
-    },
-    {
-      "source": "2FA",
-      "target": "аккаунт",
-      "type": "related",
-      "label": "усиливает защиту"
-    },
-    {
-      "source": "кибербуллинг",
-      "target": "безопасность",
-      "type": "related",
-      "label": "нарушает"
-    },
-    {
-      "source": "границы",
-      "target": "знакомство",
-      "type": "related",
-      "label": "делают безопаснее"
-    }
-  ]
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "privacy",
+        "label": "приватность",
+        "kind": "concept",
+        "description": "Право управлять доступом к своим данным.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "data",
+        "label": "персональные данные",
+        "kind": "resource",
+        "description": "Имя, фото, контакты, геолокация и другие сведения о человеке.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "post",
+        "label": "публикация",
+        "kind": "action",
+        "description": "Размещение текста, фото или видео в сети.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "footprint",
+        "label": "цифровой след",
+        "kind": "state",
+        "description": "Следы активности, которые остаются в интернете.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "cyberbullying",
+        "label": "кибербуллинг",
+        "kind": "risk",
+        "description": "Цифровая травля и давление.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "settings",
+        "label": "настройки приватности",
+        "kind": "tool",
+        "description": "Инструменты ограничения доступа к профилю и данным.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "meeting",
+        "label": "онлайн-знакомство",
+        "kind": "social",
+        "description": "Контакт с новым человеком через интернет.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      },
+      {
+        "id": "reputation",
+        "label": "репутация",
+        "kind": "social",
+        "description": "Образ человека, который складывается у других.",
+        "article_refs": [
+          "chto_mozhno_i_nelzya_postit",
+          "kiberbulling",
+          "opasnye_znakomstva_v_seti"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "settings",
+        "target": "privacy",
+        "relation": "усиливают",
+        "kind": "functional"
+      },
+      {
+        "source": "post",
+        "target": "footprint",
+        "relation": "оставляет",
+        "kind": "causal"
+      },
+      {
+        "source": "data",
+        "target": "privacy",
+        "relation": "требуют защиты",
+        "kind": "functional"
+      },
+      {
+        "source": "cyberbullying",
+        "target": "reputation",
+        "relation": "вредит",
+        "kind": "social"
+      },
+      {
+        "source": "meeting",
+        "target": "data",
+        "relation": "может запрашивать",
+        "kind": "risk"
+      },
+      {
+        "source": "footprint",
+        "target": "reputation",
+        "relation": "влияет на",
+        "kind": "social"
+      },
+      {
+        "source": "privacy",
+        "target": "post",
+        "relation": "ограничивает видимость",
+        "kind": "functional"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_labels": [
+      "privacy",
+      "personal data",
+      "cyberbullying",
+      "social media",
+      "digital footprint",
+      "phishing"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "has part(s)",
+      "part of",
+      "main subject"
+    ],
+    "notes": "При реальном запуске запросов метки лучше уточнить вручную и заменить на QID там, где это возможно."
+  }
 }
