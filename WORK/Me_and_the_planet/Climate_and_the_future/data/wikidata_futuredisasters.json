@@ -1,0 +1,61 @@
+{
+  "query_name": "futuredisasters",
+  "timestamp": "2026-03-21T00:17:54.509527",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 3,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q157943"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "пирсинг"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11959879"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ayyaz"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "мужское личное имя"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16942367"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q16942367"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "категория в проекте Викимедиа"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "section_slug": "ya_i_cifrovoy_mir",
+  "topic": {
+    "slug": "moya_zavisimost",
+    "title": "Моя зависимость",
+    "description": "Тема о внимании, экранном времени, привычках и цифровой перегрузке.",
+    "status": "draft_ready",
+    "keywords": [
+      "экранное время",
+      "скроллинг",
+      "уведомления",
+      "сон",
+      "цифровой детокс"
+    ],
+    "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost",
+    "work_path": "WORK/ya_i_cifrovoy_mir/moya_zavisimost"
+  },
+  "articles": [
+    {
+      "id": "ekrannoe_vremya",
+      "slug": "ekrannoe_vremya",
+      "title": "Экранное время: сколько я реально в телефоне",
+      "summary": "Что показывает статистика устройств и почему сама цифра ещё не всё объясняет.",
+      "keywords": [
+        "экранное время",
+        "привычка",
+        "внимание",
+        "телефон"
+      ],
+      "aliases": [
+        "экранное время",
+        "статистика телефона"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/ekrannoe_vremya.md",
+      "related_articles": [
+        "telefon_pered_snom",
+        "cifrovoi_detoks",
+        "kogda_nuzhno_vyklyuchat_uvedomleniya"
+      ],
+      "wikidata_seed_labels": [
+        "screen time",
+        " smartphone",
+        "sleep",
+        "attention"
+      ]
+    },
+    {
+      "id": "skrolling_i_dofamin",
+      "slug": "skrolling_i_dofamin",
+      "title": "Скроллинг без цели: почему это ловушка",
+      "summary": "Почему лента затягивает и как бесконечная прокрутка крадёт внимание.",
+      "keywords": [
+        "скроллинг",
+        "дофамин",
+        "лента",
+        "внимание"
+      ],
+      "aliases": [
+        "скроллинг",
+        "лента"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/skrolling_i_dofamin.md",
+      "related_articles": [
+        "ekrannoe_vremya",
+        "informacionnyj_puzyr",
+        "priznaki_peregruza_ot_seti"
+      ],
+      "wikidata_seed_labels": [
+        "screen time",
+        " smartphone",
+        "sleep",
+        "attention"
+      ]
+    },
+    {
+      "id": "telefon_pered_snom",
+      "slug": "telefon_pered_snom",
+      "title": "Телефон перед сном: что происходит с мозгом",
+      "summary": "Как вечерний экран влияет на засыпание, отдых и чувство усталости утром.",
+      "keywords": [
+        "сон",
+        "телефон",
+        "мозг",
+        "режим дня"
+      ],
+      "aliases": [
+        "телефон перед сном",
+        "сон и телефон"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/telefon_pered_snom.md",
+      "related_articles": [
+        "ekrannoe_vremya",
+        "cifrovoi_detoks",
+        "kak_prodlit_zhizn_telefonu_i_noutbuku"
+      ],
+      "wikidata_seed_labels": [
+        "screen time",
+        " smartphone",
+        "sleep",
+        "attention"
+      ]
+    },
+    {
+      "id": "cifrovoi_detoks",
+      "slug": "cifrovoi_detoks",
+      "title": "Цифровой детокс — это пытка или кайф",
+      "summary": "Нужны ли паузы от устройств и как делать их без героизма.",
+      "keywords": [
+        "цифровой детокс",
+        "отдых",
+        "привычки",
+        "самоконтроль"
+      ],
+      "aliases": [
+        "цифровой детокс",
+        "пауза от телефона"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/cifrovoi_detoks.md",
+      "related_articles": [
+        "ekrannoe_vremya",
+        "priznaki_peregruza_ot_seti",
+        "kak_druzhit_oflayn_kogda_privyk_online"
+      ],
+      "wikidata_seed_labels": [
+        "screen time",
+        " smartphone",
+        "sleep",
+        "attention"
+      ]
+    },
+    {
+      "id": "priznaki_peregruza_ot_seti",
+      "slug": "priznaki_peregruza_ot_seti",
+      "title": "Как понять, что пора отдохнуть от сети",
+      "summary": "Какие сигналы показывают, что цифровая среда уже утомляет, а не помогает.",
+      "keywords": [
+        "перегрузка",
+        "усталость",
+        "внимание",
+        "отдых"
+      ],
+      "aliases": [
+        "цифровой перегруз",
+        "усталость от сети"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/priznaki_peregruza_ot_seti.md",
+      "related_articles": [
+        "cifrovoi_detoks",
+        "pochemu_novosti_pugayut",
+        "zhizn_onlayn_i_v_reale"
+      ],
+      "wikidata_seed_labels": [
+        "screen time",
+        " smartphone",
+        "sleep",
+        "attention"
+      ]
+    }
+  ],
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "screen_time",
+        "label": "экранное время",
+        "kind": "concept",
+        "description": "Время, которое человек проводит у экранов.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "scrolling",
+        "label": "скроллинг",
+        "kind": "behavior",
+        "description": "Бесконечная прокрутка ленты.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "notifications",
+        "label": "уведомления",
+        "kind": "signal",
+        "description": "Сигналы приложений и сервисов.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "attention",
+        "label": "внимание",
+        "kind": "cognitive",
+        "description": "Умение держать фокус.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "sleep",
+        "label": "сон",
+        "kind": "state",
+        "description": "Отдых, связанный с режимом дня.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "detox",
+        "label": "цифровой детокс",
+        "kind": "practice",
+        "description": "Осознанная пауза от цифровых сервисов.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "habit",
+        "label": "привычка",
+        "kind": "behavior",
+        "description": "Повторяемое действие, которое закрепляется.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      },
+      {
+        "id": "fatigue",
+        "label": "перегрузка",
+        "kind": "state",
+        "description": "Состояние усталости и раздражения от избытка стимулов.",
+        "article_refs": [
+          "ekrannoe_vremya",
+          "skrolling_i_dofamin",
+          "telefon_pered_snom"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "scrolling",
+        "target": "screen_time",
+        "relation": "увеличивает",
+        "kind": "behavioral"
+      },
+      {
+        "source": "notifications",
+        "target": "attention",
+        "relation": "отвлекают",
+        "kind": "causal"
+      },
+      {
+        "source": "screen_time",
+        "target": "sleep",
+        "relation": "влияет на",
+        "kind": "causal"
+      },
+      {
+        "source": "detox",
+        "target": "screen_time",
+        "relation": "снижает",
+        "kind": "regulatory"
+      },
+      {
+        "source": "habit",
+        "target": "screen_time",
+        "relation": "закрепляет",
+        "kind": "behavioral"
+      },
+      {
+        "source": "fatigue",
+        "target": "detox",
+        "relation": "подсказывает необходимость",
+        "kind": "diagnostic"
+      },
+      {
+        "source": "fatigue",
+        "target": "attention",
+        "relation": "ослабляет",
+        "kind": "causal"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_labels": [
+      "screen time",
+      " smartphone",
+      "sleep",
+      "attention",
+      "digital detox",
+      "social media"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "part of",
+      "has use",
+      "influenced by"
+    ],
+    "notes": "При реальном запуске запросов метки лучше уточнить вручную и заменить на QID там, где это возможно."
+  }
+}

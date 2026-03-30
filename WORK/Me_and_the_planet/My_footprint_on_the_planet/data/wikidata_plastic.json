@@ -1,0 +1,351 @@
+{
+  "query_name": "plastic",
+  "timestamp": "2026-03-20T22:25:22.960021",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 30,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q864487"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "биоразлагаемый пластик"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "полимерные материалы, способные распадаться под действием микроорганизмов"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q146322"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "полиуретан"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2387307"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q2387307"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q380677"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "термопласты"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q9305288"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q9305288"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q10489217"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q10489217"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q10549119"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q10549119"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q10637203"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q10637203"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q131676125"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "micro- and nanoplastics"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q12029944"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q12029944"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q12045522"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q12045522"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1322782"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jelly"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1151103"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "corrugated plastic"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18454661"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q18454661"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q97161537"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "нанопластик"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q97340954"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "single-use plastic"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q145897"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "фенолформальдегидная смола"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1418040"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "синтетическая смола"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1736298"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "полиэтиленовая плёнка"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2093063"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "vubonite"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q12817966"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Аминопласты"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1850079"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Полиэтилентерефталат-гликоль"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "пластик ПЭТГ"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q413458"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Биопластики"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16857808"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Vitrimers"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3862802"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Moplen"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q764561"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "engineering plastic"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q881868"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Blasfilm"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7783228"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "термопластичный полиуретан"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q891059"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "bois durci"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q898359"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Пластичные взрывчатые вещества"
+          }
+        }
+      ]
+    }
+  }
+}

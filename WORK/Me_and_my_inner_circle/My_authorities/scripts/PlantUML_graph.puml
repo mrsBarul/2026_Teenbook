@@ -1,0 +1,62 @@
+@startuml
+skinparam backgroundColor white
+skinparam classBackgroundColor white
+skinparam classBorderColor black
+skinparam ArrowColor black
+skinparam DefaultFontName Arial
+skinparam DefaultFontSize 12
+skinparam shadowing false
+skinparam linetype ortho
+
+title Онтология темы "Мои авторитеты"
+
+class "Подросток" as Teen
+class "Авторитет" as Authority
+class "Пример для подражания" as RoleModel
+class "Учитель" as Teacher
+class "Блогер" as Blogger
+class "Влияние" as Influence
+class "Вдохновение" as Inspiration
+class "Ценности" as Values
+class "Личность" as Personality
+class "Доверие" as Trust
+class "Репутация" as Reputation
+class "Разочарование" as Disappointment
+class "Подражание" as Imitation
+class "Социальные сети" as SocialMedia
+class "Общение" as Communication
+class "Дружба" as Friendship
+class "Конфликт" as Conflict
+class "Школа" as School
+class "Одиночество" as Loneliness
+
+Teacher --|> Authority : может быть
+Blogger --|> Authority : может быть
+Authority --> Influence : оказывает
+Authority --> RoleModel : может становиться
+Teacher --> Inspiration : вызывает
+Blogger --> SocialMedia : активен в
+SocialMedia --> Influence : усиливают
+Teen --> Authority : ищет / выбирает
+Teen --> Imitation : склонен к
+Imitation --> RoleModel : связано с
+Imitation --> Values : влияет на
+Values --> Personality : формируют
+Reputation --> Trust : влияет на
+Authority --> Reputation : имеет
+Authority --> Disappointment : может вызывать
+Disappointment --> Values : заставляет пересмотреть
+Teacher --> School : работает в
+Teen --> School : учится в
+Communication --> Friendship : способствует
+Friendship --> Authority : может формировать
+Conflict --> Disappointment : может усиливать
+Loneliness --> SocialMedia : побуждает искать поддержку в
+
+note right of Authority
+Центральное понятие темы:
+люди, на которых подросток
+ориентируется в поведении,
+взглядах и выборе ценностей
+end note
+@enduml

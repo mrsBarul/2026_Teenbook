@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "name": "Мыть посуду — это рабство или вклад в семью",
+      "file": "cleaning_dishes.md"
+    },
+    {
+      "name": "Справедливое распределение дел",
+      "file": "fair_responsibilities_distribution.md"
+    },
+    {
+      "name": "Что делать, если не хочешь, но надо",
+      "file": "doing_things_you_dont_like.md"
+    },
+    {
+      "name": "Навыки, которые пригодятся во взрослой жизни",
+      "file": "useful_skills.md"
+    }
+  ]
+}

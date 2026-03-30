@@ -1,0 +1,86 @@
+[
+    {
+        "item": "http://www.wikidata.org/entity/Q7002058",
+        "itemLabel": "личные границы",
+        "itemDescription": "психологические, эмоциональные или физические границы, которые человек устанавливает для себя",
+        "concept_ru": "Личные границы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q7002058",
+        "itemLabel": "личные границы",
+        "itemDescription": "psychological, emotional or physical boundaries a person sets for themselves",
+        "concept_ru": "Личные границы"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q231043",
+        "itemLabel": "согласие",
+        "itemDescription": "выражение, дающее разрешение на продолжение предложения или инициативы",
+        "concept_ru": "Согласие"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q231043",
+        "itemLabel": "согласие",
+        "itemDescription": "expression granting permission to proceed with a proposal",
+        "concept_ru": "Согласие"
+    },
+    {
+        "item": "https://www.wikidata.org/wiki/Q628939",
+        "itemLabel": "чувство вины",
+        "itemDescription": "эмоциональное переживание, возникающее при нарушении собственных моральных норм",
+        "concept_ru": "Чувство вины"
+    },
+    {
+        "item": "https://www.wikidata.org/wiki/Q628939",
+        "itemLabel": "чувство вины",
+        "itemDescription": "emotional experience arising when one believes they have violated personal or universal moral standards and feels responsible for the transgression",
+        "concept_ru": "Чувство вины"
+    },
+    {
+        "item": "https://www.wikidata.org/wiki/Q26270533",
+        "itemLabel": "личное пространство",
+        "itemDescription": "физическое или символическое пространство, которое человек считает своим",
+        "concept_ru": "Личное пространство"
+    },
+    {
+        "item": "https://www.wikidata.org/wiki/Q26270533",
+        "itemLabel": "личное пространство",
+        "itemDescription": "physical or symbolic space that a person considers their own",
+        "concept_ru": "Личное пространство"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q8354932",
+        "itemLabel": "право на неприкосновенность частной жизни",
+        "itemDescription": "одно из прав человека, защищающее его личную сферу от вмешательства",
+        "concept_ru": "Право на тайну"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q8354932",
+        "itemLabel": "право на неприкосновенность частной жизни",
+        "itemDescription": "human right protecting personal sphere from intrusion",
+        "concept_ru": "Право на тайну"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1339137",
+        "itemLabel": "психологическое насилие",
+        "itemDescription": "форма насильственного поведения, которая может приводить к психологической травме",
+        "concept_ru": "Эмоциональное насилие"
+    },
+    {
+        "item": "http://www.wikidata.org/entity/Q1339137",
+        "itemLabel": "психологическое насилие",
+        "itemDescription": "form of abuse characterized by a person subjecting or exposing another to behavior that may result in psychological trauma",
+        "concept_ru": "Эмоциональное насилие"
+    },
+    {
+        "item": "https://www.wikidata.org/wiki/Q3702971",
+        "itemLabel": "телефон",
+        "itemDescription": "устройство связи, часто содержащее личную информацию владельца",
+        "concept_ru": "Личные вещи"
+    },
+    {
+        "item": "https://www.wikidata.org/wiki/Q3702971",
+        "itemLabel": "телефон",
+        "itemDescription": "communication device, often containing personal information of the owner",
+        "concept_ru": "Личные вещи"
+    }
+]

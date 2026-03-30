@@ -1,0 +1,147 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26270533"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория в проекте Викимедиа"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Личное пространство"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131774"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человек в подростковом возрасте"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковый возраст"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7566"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "прямой предок персоны или опекун"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "родитель"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26384"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отход от принятого в обществе разделения труда"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделай сам"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1367353"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "уют"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14754454"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сосед по комнате"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180516"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отдельное помещение в доме или квартире"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "комната"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1787424"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория космогонии и космологии - бесформенная совокупность материи и пространства"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хаос"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12893838"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состояние"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "упорядоченность"
+        }
+      }
+    ]
+  }
+}

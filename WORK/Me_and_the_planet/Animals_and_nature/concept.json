@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "name": "Красная книга и исчезающие виды",
+      "file": "krasnaya_kniga.md"
+    },
+    {
+      "name": "Как помочь бездомным животным",
+      "file": "pomosh_bezdomnym.md"
+    },
+    {
+      "name": "Лесные пожары — кто виноват",
+      "file": "lesnye_pozhary.md"
+    },
+    {
+      "name": "Заповедники и национальные парки",
+      "file": "zapovedniki.md"
+    }
+  ]
+}

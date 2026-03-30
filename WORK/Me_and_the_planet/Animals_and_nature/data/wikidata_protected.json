@@ -1,0 +1,51 @@
+{
+  "query_name": "protected",
+  "timestamp": "2026-03-21T02:18:04.319849",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 2,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q46169"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "парк, предназначенный для сохранения животных и растений"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "национальный парк"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q473972"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "природоохранная или культурная зона"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "природоохранная зона"
+          }
+        }
+      ]
+    }
+  }
+}

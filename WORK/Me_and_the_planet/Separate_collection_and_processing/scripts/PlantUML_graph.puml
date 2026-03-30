@@ -1,0 +1,69 @@
+@startuml
+skinparam backgroundColor white
+skinparam classBackgroundColor white
+skinparam classBorderColor black
+skinparam ArrowColor black
+skinparam DefaultFontName Arial
+skinparam DefaultFontSize 12
+skinparam shadowing false
+skinparam linetype ortho
+
+title Онтология темы "Раздельный сбор и переработка"
+
+class "Человек" as Human
+class "Отходы" as Waste
+class "Раздельный сбор" as SeparateCollection
+class "Сортировка" as Sorting
+class "Переработка" as Recycling
+class "Вторсырье" as Recyclable
+class "Пластик" as Plastic
+class "Стекло" as Glass
+class "Бумага" as Paper
+class "Металл" as Metal
+class "Батарейки" as Batteries
+class "Одежда" as Clothes
+class "Контейнеры для сбора" as Containers
+class "Пункт приема" as CollectionPoint
+class "Упаковка" as Packaging
+class "Маркировка" as Labeling
+class "Загрязнение" as Pollution
+class "Природные ресурсы" as Resources
+class "Экология" as Ecology
+class "Осознанное потребление" as ConsciousConsumption
+
+Human --> Waste : образует
+Human --> SeparateCollection : участвует в
+SeparateCollection --> Sorting : включает
+Sorting --> Plastic : разделяет
+Sorting --> Glass : разделяет
+Sorting --> Paper : разделяет
+Sorting --> Metal : разделяет
+
+Plastic --> Recycling : может направляться на
+Glass --> Recycling : может направляться на
+Paper --> Recycling : может направляться на
+Metal --> Recycling : может направляться на
+
+Batteries --> CollectionPoint : сдаются в
+Clothes --> CollectionPoint : сдается в
+CollectionPoint --> Recycling : направляет на
+Containers --> SeparateCollection : используются для
+
+Packaging --> Labeling : имеет
+Labeling --> Sorting : помогает в
+Waste --> Pollution : вызывает
+Recycling --> Recyclable : превращает в
+Recyclable --> Resources : позволяет сохранять
+ConsciousConsumption --> Waste : уменьшает объем
+SeparateCollection --> Pollution : снижает
+SeparateCollection --> Ecology : способствует
+Recycling --> Ecology : способствует
+
+note right of SeparateCollection
+Центральное понятие темы:
+система, при которой отходы
+разделяются по видам и
+направляются на переработку
+или специальную утилизацию
+end note
+@enduml

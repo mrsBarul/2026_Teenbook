@@ -1,0 +1,131 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q144"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "домашнее животное"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "собака"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202883"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "врач, лечащий болезни животных"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ветеринар"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42982"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "реакция иммунной системы на вещество, которое большинство людей переносит хорошо"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аллергия"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1026040"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "эмоциональное состояние, глубокая печаль"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "горе"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1492760"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возраст 13-19 лет"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тинейджер"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10566551"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состояние субъекта или объекта в условиях возможных факторов опасности"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "безопасность"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1411287"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "приют для бездомных животных"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2421951"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "забота"
+        }
+      }
+    ]
+  }
+}
