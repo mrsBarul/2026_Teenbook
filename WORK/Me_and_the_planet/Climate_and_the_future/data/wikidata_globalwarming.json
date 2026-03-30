@@ -1,0 +1,41 @@
+{
+  "query_name": "globalwarming",
+  "timestamp": "2026-03-21T00:17:53.971055",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 2,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1134996"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Corps Rhenania Bonn"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7967"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Antipodean"
+          }
+        }
+      ]
+    }
+  }
+}

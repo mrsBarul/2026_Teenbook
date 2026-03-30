@@ -1,0 +1,371 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "section_slug": "ya_i_cifrovoy_mir",
+  "topic": {
+    "slug": "moya_tehnika",
+    "title": "Моя техника",
+    "description": "Тема о выборе устройств, уходе за техникой, ремонте и апгрейде.",
+    "status": "draft_ready",
+    "keywords": [
+      "смартфон",
+      "ноутбук",
+      "ремонт",
+      "апгрейд",
+      "приложения"
+    ],
+    "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika",
+    "work_path": "WORK/ya_i_cifrovoy_mir/moya_tehnika"
+  },
+  "articles": [
+    {
+      "id": "kak_prodlit_zhizn_telefonu_i_noutbuku",
+      "slug": "kak_prodlit_zhizn_telefonu_i_noutbuku",
+      "title": "Как продлить жизнь телефону/ноутбуку",
+      "summary": "Что помогает устройству жить дольше: аккуратность, обновления и привычки использования.",
+      "keywords": [
+        "смартфон",
+        "ноутбук",
+        "уход",
+        "аккумулятор"
+      ],
+      "aliases": [
+        "продлить жизнь телефону",
+        "уход за ноутбуком"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/kak_prodlit_zhizn_telefonu_i_noutbuku.md",
+      "related_articles": [
+        "telefon_pered_snom",
+        "apgreyd_kogda_pora_menyat",
+        "poleznye_prilozheniya_ne_tolko_igry"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    },
+    {
+      "id": "chto_delat_esli_slomalos",
+      "slug": "chto_delat_esli_slomalos",
+      "title": "Что делать, если сломалось",
+      "summary": "Как не паниковать, когда техника перестала работать, и с чего начинать проверку.",
+      "keywords": [
+        "поломка",
+        "диагностика",
+        "ремонт",
+        "безопасность"
+      ],
+      "aliases": [
+        "если сломалось",
+        "поломка техники"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/chto_delat_esli_slomalos.md",
+      "related_articles": [
+        "remont_svoimi_rukami",
+        "apgreyd_kogda_pora_menyat",
+        "kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    },
+    {
+      "id": "kak_sobrat_igrovoy_komp",
+      "slug": "kak_sobrat_igrovoy_komp",
+      "title": "Как собрать игровой комп",
+      "summary": "Из каких частей состоит компьютер и как выбирать их без мифов и переплат.",
+      "keywords": [
+        "игровой компьютер",
+        "комплектующие",
+        "производительность",
+        "сборка"
+      ],
+      "aliases": [
+        "игровой комп",
+        "сборка компьютера"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/kak_sobrat_igrovoy_komp.md",
+      "related_articles": [
+        "apgreyd_kogda_pora_menyat",
+        "kibersport_kak_stat_professionalom",
+        "donaty_i_mikroplatezhi"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    },
+    {
+      "id": "kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov",
+      "slug": "kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov",
+      "title": "Какая техника нужна в твоей области интересов",
+      "summary": "Почему дизайнеру, музыканту, программисту и геймеру нужны разные устройства.",
+      "keywords": [
+        "техника",
+        "интересы",
+        "выбор",
+        "задачи"
+      ],
+      "aliases": [
+        "какая техника нужна",
+        "выбор техники"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov.md",
+      "related_articles": [
+        "poleznye_prilozheniya_ne_tolko_igry",
+        "kak_sobrat_igrovoy_komp",
+        "apgreyd_kogda_pora_menyat"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    },
+    {
+      "id": "poleznye_prilozheniya_ne_tolko_igry",
+      "slug": "poleznye_prilozheniya_ne_tolko_igry",
+      "title": "Полезные приложения (не только игры)",
+      "summary": "Какие программы помогают учиться, рисовать, планировать и отдыхать.",
+      "keywords": [
+        "приложения",
+        "обучение",
+        "полезные сервисы",
+        "планирование"
+      ],
+      "aliases": [
+        "полезные приложения",
+        "приложения"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/poleznye_prilozheniya_ne_tolko_igry.md",
+      "related_articles": [
+        "kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov",
+        "ekrannoe_vremya",
+        "kak_druzhit_oflayn_kogda_privyk_online"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    },
+    {
+      "id": "remont_svoimi_rukami",
+      "slug": "remont_svoimi_rukami",
+      "title": "Ремонт своими руками — это реально",
+      "summary": "Когда мелкий ремонт возможен, а когда безопаснее обратиться к специалисту.",
+      "keywords": [
+        "ремонт",
+        "инструменты",
+        "безопасность",
+        "опыт"
+      ],
+      "aliases": [
+        "ремонт своими руками",
+        "самостоятельный ремонт"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/remont_svoimi_rukami.md",
+      "related_articles": [
+        "chto_delat_esli_slomalos",
+        "apgreyd_kogda_pora_menyat",
+        "kak_prodlit_zhizn_telefonu_i_noutbuku"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    },
+    {
+      "id": "apgreyd_kogda_pora_menyat",
+      "slug": "apgreyd_kogda_pora_menyat",
+      "title": "Апгрейд: когда пора менять",
+      "summary": "Как понять, что устройству хватает обновления, а не полной замены.",
+      "keywords": [
+        "апгрейд",
+        "замена",
+        "производительность",
+        "память"
+      ],
+      "aliases": [
+        "апгрейд",
+        "когда менять"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/apgreyd_kogda_pora_menyat.md",
+      "related_articles": [
+        "chto_delat_esli_slomalos",
+        "kak_sobrat_igrovoy_komp",
+        "kak_prodlit_zhizn_telefonu_i_noutbuku"
+      ],
+      "wikidata_seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery"
+      ]
+    }
+  ],
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "device",
+        "label": "устройство",
+        "kind": "concept",
+        "description": "Техника, которой человек пользуется в цифровой среде.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "smartphone",
+        "label": "смартфон",
+        "kind": "device",
+        "description": "Карманное устройство для связи и приложений.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "laptop",
+        "label": "ноутбук",
+        "kind": "device",
+        "description": "Переносной компьютер для учёбы и работы.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "component",
+        "label": "комплектующее",
+        "kind": "hardware",
+        "description": "Часть компьютера, влияющая на работу системы.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "battery",
+        "label": "аккумулятор",
+        "kind": "hardware",
+        "description": "Источник питания мобильного устройства.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "repair",
+        "label": "ремонт",
+        "kind": "practice",
+        "description": "Исправление поломки или замена детали.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "upgrade",
+        "label": "апгрейд",
+        "kind": "practice",
+        "description": "Улучшение устройства без полной замены.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      },
+      {
+        "id": "app",
+        "label": "приложение",
+        "kind": "software",
+        "description": "Программа для выполнения задачи на устройстве.",
+        "article_refs": [
+          "kak_prodlit_zhizn_telefonu_i_noutbuku",
+          "chto_delat_esli_slomalos",
+          "kak_sobrat_igrovoy_komp"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "smartphone",
+        "target": "device",
+        "relation": "является видом",
+        "kind": "taxonomic"
+      },
+      {
+        "source": "laptop",
+        "target": "device",
+        "relation": "является видом",
+        "kind": "taxonomic"
+      },
+      {
+        "source": "battery",
+        "target": "smartphone",
+        "relation": "питает",
+        "kind": "functional"
+      },
+      {
+        "source": "component",
+        "target": "upgrade",
+        "relation": "меняется при",
+        "kind": "functional"
+      },
+      {
+        "source": "repair",
+        "target": "device",
+        "relation": "возвращает к работе",
+        "kind": "functional"
+      },
+      {
+        "source": "app",
+        "target": "device",
+        "relation": "работает на",
+        "kind": "functional"
+      },
+      {
+        "source": "upgrade",
+        "target": "device",
+        "relation": "продлевает жизнь",
+        "kind": "causal"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_labels": [
+      "smartphone",
+      "laptop",
+      "computer",
+      "battery",
+      "computer hardware",
+      "software"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "has part(s)",
+      "part of",
+      "used for"
+    ],
+    "notes": "При реальном запуске запросов метки лучше уточнить вручную и заменить на QID там, где это возможно."
+  }
+}

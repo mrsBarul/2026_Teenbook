@@ -1,0 +1,56 @@
+{
+  "query_name": "stray",
+  "timestamp": "2026-03-21T02:18:03.923766",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 3,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2858709"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q2858709"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q161700"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "1 апреля 2000 г."
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q230268"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Джейн Краковски"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "американская актриса"
+          }
+        }
+      ]
+    }
+  }
+}

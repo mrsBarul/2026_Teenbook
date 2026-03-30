@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "name": "Нужна ли мне еще одна футболка",
+      "file": "nuzhna_li_eshche_odna_futbolka.md"
+    },
+    {
+      "name": "Fast fashion — почему это проблема",
+      "file": "fast_fashion_problema.md"
+    },
+    {
+      "name": "Ремонт вместо выброса",
+      "file": "remont_vmesto_vybrosa.md"
+    },
+    {
+      "name": "Секонд-хенды и свопы: модно и экологично",
+      "file": "sekond_khendy_i_svopy.md"
+    }
+  ]
+}

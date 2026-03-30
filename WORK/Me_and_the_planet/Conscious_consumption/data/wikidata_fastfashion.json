@@ -1,0 +1,18 @@
+{
+  "query_name": "fastfashion",
+  "timestamp": "2026-03-21T04:41:25.113317",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 0,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": []
+    }
+  }
+}

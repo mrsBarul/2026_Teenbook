@@ -1,0 +1,15 @@
+﻿graph TD
+    Adults["Взрослые"] --> Safety["Правила безопасности"]
+    Adults --> Independence["Самостоятельность"]
+    
+    Safety --> Caution["Осторожность"]
+    
+    Caution --> Electricity["Электричество"]
+    Caution --> Tools["Инструменты"]
+    Caution --> Appliances["Приборы"]
+    
+    Independence --> Repair["Ремонт"]
+    Independence --> Appliances
+    
+    Tools --> Repair
+    Electricity --> Appliances

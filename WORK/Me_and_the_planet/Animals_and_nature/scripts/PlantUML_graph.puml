@@ -1,0 +1,56 @@
+@startuml
+skinparam backgroundColor white
+skinparam classBackgroundColor white
+skinparam classBorderColor black
+skinparam ArrowColor black
+skinparam DefaultFontName Arial
+skinparam DefaultFontSize 12
+skinparam shadowing false
+skinparam linetype ortho
+
+title Онтология темы "Животные и природа"
+
+class "Человек" as Person
+class "Ответственность" as Responsibility
+class "Красная книга" as RedBook
+class "Исчезающие виды" as EndangeredSpecies
+class "Бездомные животные" as StrayAnimals
+class "Приют для животных" as Shelter
+class "Лесные пожары" as Wildfire
+class "Заповедники" as Reserve
+class "Национальные парки" as NationalPark
+class "Охрана природы" as Conservation
+class "Биоразнообразие" as Biodiversity
+class "Вырубка лесов" as Deforestation
+class "Климат" as Climate
+
+Person --> Responsibility : проявляет
+Responsibility --> Conservation : включает
+RedBook --> EndangeredSpecies : содержит
+EndangeredSpecies --> Biodiversity : угрожает
+StrayAnimals --> Shelter : помогает
+Wildfire --> Deforestation : приводит к
+Wildfire --> Climate : влияет на
+NationalPark --> Conservation : способствует
+Reserve --> Conservation : способствует
+Conservation --> Biodiversity : защищает
+
+note right of RedBook
+Красная книга — документ,
+фиксирующий редкие и
+исчезающие виды
+end note
+
+note bottom of Wildfire
+Лесные пожары часто возникают
+по вине человека (непотушенный
+костёр, поджог сухой травы)
+end note
+
+note left of Conservation
+Охрана природы — система мер,
+направленных на сохранение
+природных экосистем
+end note
+
+@enduml

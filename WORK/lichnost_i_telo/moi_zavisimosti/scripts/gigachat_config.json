@@ -1,0 +1,12 @@
+{
+  "authorization_key": "KEY",
+  "scope": "GIGACHAT_API_PERS",
+  "model": "GigaChat-2",
+  "temperature": 0.7,
+  "max_tokens": 1800,
+  "timeout_seconds": 120,
+  "verify_ssl": true,
+  "sleep_between_requests_seconds": 1.0,
+  "token_url": "https://ngw.devices.sberbank.ru:9443/api/v2/oauth",
+  "chat_url": "https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
+}

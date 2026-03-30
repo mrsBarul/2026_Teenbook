@@ -1,0 +1,65 @@
+@startuml
+skinparam backgroundColor white
+skinparam classBackgroundColor white
+skinparam classBorderColor black
+skinparam ArrowColor black
+skinparam DefaultFontName Arial
+skinparam DefaultFontSize 12
+skinparam shadowing false
+skinparam linetype ortho
+
+title Онтология темы "Мой след на планете"
+
+class "Человек" as Person
+class "Личная ответственность" as Responsibility
+class "Мусор" as Waste
+class "Пластик" as Plastic
+class "Углеродный след" as Carbon
+class "Переработка" as Recycling
+class "Потребление" as Consumption
+class "Сортировка" as Sorting
+class "Экология" as Ecology
+class "Глобальное потепление" as Warming
+class "Окружающая среда" as Environment
+class "Осознанность" as Awareness
+class "Вторсырьё" as Recyclable
+class "Свалка" as Landfill
+class "Выбросы CO2" as CO2
+
+Person --> Responsibility : проявляет
+Responsibility --> Consumption : влияет на
+Responsibility --> Sorting : включает
+Consumption --> Plastic : использует
+Consumption --> Carbon : создаёт
+Plastic --|> Waste : становится
+Waste --> Sorting : сортируется
+Sorting --> Recycling : направляет на
+Recycling --> Recyclable : производит
+Waste --> Landfill : попадает на
+Carbon --|> CO2 : состоит из
+CO2 --> Warming : вызывает
+Warming --> Environment : влияет на
+Ecology --> Environment : защищает
+Awareness --> Responsibility : формирует
+
+note right of Responsibility
+Центральное понятие темы:
+личная ответственность человека
+за своё влияние на планету
+через потребление, отходы
+и углеродный след
+end note
+
+note left of Plastic
+Пластик — один из основных
+источников загрязнения.
+Разлагается 100-500 лет.
+end note
+
+note bottom of Carbon
+Углеродный след — количество
+парниковых газов, которые
+производит человек.
+end note
+
+@enduml

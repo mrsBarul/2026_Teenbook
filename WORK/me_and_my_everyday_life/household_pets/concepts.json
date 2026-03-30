@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Ответственность за живое существо",
+      "file": "pet_responsibility.md"
+    },
+    {
+      "name": "Если просишь собаку, но не готов ухаживать",
+      "file": "not_ready_to_take_care.md"
+    },
+    {
+      "name": "Потеря питомца",
+      "file": "pet_loss.md"
+    },
+    {
+      "name": "Аллергии и животные",
+      "file": "pets_and_allergy.md"
+    },
+    {
+      "name": "Бездомные животные — можно ли помочь",
+      "file": "stray_animals.md"
+    }
+  ]
+}

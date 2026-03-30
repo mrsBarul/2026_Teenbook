@@ -1,0 +1,1698 @@
+{
+  "head": {
+    "vars": [
+      "source",
+      "sourceLabel",
+      "property",
+      "propertyLabel",
+      "target",
+      "targetLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48282"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11448873"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ученик"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обучающийся"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26256810"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тема"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35127"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сайт"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48282"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q874405"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ученик"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная группа"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18189"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "уровень образования"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48282"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12737077"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ученик"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Интернет"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48282"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16334295"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ученик"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "группа людей"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112872396"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип образовательного учреждения"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340169"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиа"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28640"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "профессия"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48282"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48942"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ученик"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школьник"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6031064"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информационный обмен"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Интернет"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419911"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аккредитация"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2305441"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальный процесс"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116505632"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип процесса"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131774"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2347178"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковый возраст"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "развитие человека"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1668024"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-сервис"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2385804"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образовательное учреждение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119648796"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "digital-native publication"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123345464"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип взаимодействия"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1244442"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "здание учебного заведения"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1002697"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "периодическое издание"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267628"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "колонка"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5341295"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образовательная организация"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q674926"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "видеоблог"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q451967"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человеческое действие"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q974144"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1231865"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "педагог"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q974144"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2120372"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "педология"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122754124"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неоднозначный элемент Викиданных"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q297076"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Blob"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131774"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185836"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковый возраст"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возраст человека"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618123"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "географический объект"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7406919"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "услуга"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1413287"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальный навык"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2305441"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальный процесс"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11448772"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школьный персонал"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622272"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "преподаватель университета"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3400985"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "научно-педагогический работник"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15966880"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Педагог"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5340858"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Просвещение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1889"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125119808"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сэнсэй"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38786485"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "форма коммуникации"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131774"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q785260"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковый возраст"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фаза человеческой жизни"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4164871"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "должность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130303173"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип услуги"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3914"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18189"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "школа"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "уровень образования"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12737077"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q921513"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальное поведение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2465832"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "раздел науки"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6423395"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "распространение знания"
+        }
+      }
+    ]
+  }
+}

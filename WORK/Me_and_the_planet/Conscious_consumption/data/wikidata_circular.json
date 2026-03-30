@@ -1,0 +1,61 @@
+{
+  "query_name": "circular",
+  "timestamp": "2026-03-21T04:41:27.736752",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 4,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2306286"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Cradle-to-Cradle"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5333090"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "eco-economic decoupling"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q109315973"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q109315973"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q111209476"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q111209476"
+          }
+        }
+      ]
+    }
+  }
+}

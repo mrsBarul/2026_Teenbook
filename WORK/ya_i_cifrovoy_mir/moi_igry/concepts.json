@@ -1,0 +1,314 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "section_slug": "ya_i_cifrovoy_mir",
+  "topic": {
+    "slug": "moi_igry",
+    "title": "Мои игры",
+    "description": "Тема об играх как хобби, развлечении, спорте и среде общения.",
+    "status": "draft_ready",
+    "keywords": [
+      "игры",
+      "киберспорт",
+      "донаты",
+      "сообщества",
+      "хобби"
+    ],
+    "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry",
+    "work_path": "WORK/ya_i_cifrovoy_mir/moi_igry"
+  },
+  "articles": [
+    {
+      "id": "igry_hobbi_ili_zavisimost",
+      "slug": "igry_hobbi_ili_zavisimost",
+      "title": "Игры — это зависимость или хобби",
+      "summary": "Где проходит граница между приятным увлечением и режимом, который мешает жить.",
+      "keywords": [
+        "игры",
+        "хобби",
+        "зависимость",
+        "баланс"
+      ],
+      "aliases": [
+        "игры",
+        "игровое хобби"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/igry_hobbi_ili_zavisimost.md",
+      "related_articles": [
+        "kibersport_kak_stat_professionalom",
+        "chem_zamenit_igry_esli_nadoelo",
+        "ekrannoe_vremya"
+      ],
+      "wikidata_seed_labels": [
+        "video game",
+        "esports",
+        "online game",
+        "microtransaction"
+      ]
+    },
+    {
+      "id": "kibersport_kak_stat_professionalom",
+      "slug": "kibersport_kak_stat_professionalom",
+      "title": "Киберспорт: как стать профессионалом",
+      "summary": "Чем киберспорт отличается от обычной игры и почему там важны тренировки и режим.",
+      "keywords": [
+        "киберспорт",
+        "команда",
+        "тренировка",
+        "игрок"
+      ],
+      "aliases": [
+        "киберспорт",
+        "профессиональный игрок"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/kibersport_kak_stat_professionalom.md",
+      "related_articles": [
+        "igry_hobbi_ili_zavisimost",
+        "igrovye_soobshchestva",
+        "kak_sobrat_igrovoy_komp"
+      ],
+      "wikidata_seed_labels": [
+        "video game",
+        "esports",
+        "online game",
+        "microtransaction"
+      ]
+    },
+    {
+      "id": "igrovye_soobshchestva",
+      "slug": "igrovye_soobshchestva",
+      "title": "Игровые сообщества: друзья на всю жизнь",
+      "summary": "Как игры помогают находить команду, друзей и общие интересы, но иногда рождают токсичность.",
+      "keywords": [
+        "сообщество",
+        "друзья",
+        "команда",
+        "токсичность"
+      ],
+      "aliases": [
+        "игровые сообщества",
+        "команда игроков"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/igrovye_soobshchestva.md",
+      "related_articles": [
+        "kibersport_kak_stat_professionalom",
+        "kiberbulling",
+        "znakomstva_v_seti_i_v_zhizni"
+      ],
+      "wikidata_seed_labels": [
+        "video game",
+        "esports",
+        "online game",
+        "microtransaction"
+      ]
+    },
+    {
+      "id": "donaty_i_mikroplatezhi",
+      "slug": "donaty_i_mikroplatezhi",
+      "title": "Донаты и микроплатежи — стоит ли тратить",
+      "summary": "Как устроены мелкие игровые покупки и почему важно замечать, на что уходит бюджет.",
+      "keywords": [
+        "донаты",
+        "микроплатежи",
+        "покупки",
+        "игровая экономика"
+      ],
+      "aliases": [
+        "донаты",
+        "микроплатежи"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/donaty_i_mikroplatezhi.md",
+      "related_articles": [
+        "igry_hobbi_ili_zavisimost",
+        "kak_sobrat_igrovoy_komp",
+        "chem_zamenit_igry_esli_nadoelo"
+      ],
+      "wikidata_seed_labels": [
+        "video game",
+        "esports",
+        "online game",
+        "microtransaction"
+      ]
+    },
+    {
+      "id": "chem_zamenit_igry_esli_nadoelo",
+      "slug": "chem_zamenit_igry_esli_nadoelo",
+      "title": "Чем заменить игры, если надоело",
+      "summary": "Какие занятия дают похожее удовольствие от развития, общения и соревнования.",
+      "keywords": [
+        "игры",
+        "альтернатива",
+        "хобби",
+        "отдых"
+      ],
+      "aliases": [
+        "альтернатива играм",
+        "чем заменить игры"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/chem_zamenit_igry_esli_nadoelo.md",
+      "related_articles": [
+        "igry_hobbi_ili_zavisimost",
+        "cifrovoi_detoks",
+        "kak_druzhit_oflayn_kogda_privyk_online"
+      ],
+      "wikidata_seed_labels": [
+        "video game",
+        "esports",
+        "online game",
+        "microtransaction"
+      ]
+    }
+  ],
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "game",
+        "label": "видеоигра",
+        "kind": "concept",
+        "description": "Цифровая игра как форма развлечения и взаимодействия.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "hobby",
+        "label": "хобби",
+        "kind": "activity",
+        "description": "Регулярное занятие ради интереса и удовольствия.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "esports",
+        "label": "киберспорт",
+        "kind": "activity",
+        "description": "Соревновательная игровая дисциплина.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "community",
+        "label": "игровое сообщество",
+        "kind": "social",
+        "description": "Группа людей, которых объединяет игра.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "micro",
+        "label": "микроплатёж",
+        "kind": "economy",
+        "description": "Небольшая покупка внутри игры.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "donation",
+        "label": "донат",
+        "kind": "economy",
+        "description": "Платёж за удобство, косметику или ускорение.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "balance",
+        "label": "баланс",
+        "kind": "state",
+        "description": "Соотношение игр, учёбы, сна и других дел.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      },
+      {
+        "id": "training",
+        "label": "тренировка",
+        "kind": "practice",
+        "description": "Осознанное развитие игрового навыка.",
+        "article_refs": [
+          "igry_hobbi_ili_zavisimost",
+          "kibersport_kak_stat_professionalom",
+          "igrovye_soobshchestva"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "game",
+        "target": "hobby",
+        "relation": "может быть формой",
+        "kind": "taxonomic"
+      },
+      {
+        "source": "esports",
+        "target": "training",
+        "relation": "требует",
+        "kind": "functional"
+      },
+      {
+        "source": "community",
+        "target": "game",
+        "relation": "строится вокруг",
+        "kind": "social"
+      },
+      {
+        "source": "micro",
+        "target": "donation",
+        "relation": "является видом",
+        "kind": "taxonomic"
+      },
+      {
+        "source": "donation",
+        "target": "balance",
+        "relation": "может нарушать",
+        "kind": "economic"
+      },
+      {
+        "source": "community",
+        "target": "balance",
+        "relation": "может поддерживать или нарушать",
+        "kind": "social"
+      },
+      {
+        "source": "training",
+        "target": "balance",
+        "relation": "нуждается в",
+        "kind": "regulatory"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_labels": [
+      "video game",
+      "esports",
+      "online game",
+      "microtransaction",
+      "gaming community"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "genre",
+      "part of",
+      "has use"
+    ],
+    "notes": "При реальном запуске запросов метки лучше уточнить вручную и заменить на QID там, где это возможно."
+  }
+}

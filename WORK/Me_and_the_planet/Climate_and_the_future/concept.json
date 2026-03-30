@@ -1,0 +1,64 @@
+{
+  "concepts": [
+    {
+      "name": "Человеческий фактор — единая причина всех климатических кризисов", 
+      "file": "human_factor_crisis.md",
+      "wikidata": "Q8074"
+    },
+    {
+      "name": "Глобальное потепление — миф или реальность?", 
+      "file": "global_warming_myth.md",
+      "wikidata": "Q1135628"
+    },
+    {
+      "name": "Климатические катастрофы: новая норма", 
+      "file": "climate_catastrophes.md",
+      "wikidata": "Q8074"
+    },
+    {
+      "name": "Земля через 50 лет: сценарии будущего", 
+      "file": "earth_50_years.md",
+      "wikidata": "Q11959879"
+    },
+    {
+      "name": "Остановить климатический кризис: что возможно?", 
+      "file": "stop_climate_crisis.md",
+      "wikidata": "Q29533"
+    },
+    {
+      "name": "Планета +2°C: пути спасения", 
+      "file": "planet_plus2c.md",
+      "wikidata": "Q7967"
+    },
+    {
+      "name": "Экстремальная погода 2025: статистика", 
+      "file": "extreme_weather_2025.md",
+      "wikidata": "Q80697991"
+    },
+    {
+      "name": "Таяние ледников: Арктика и Антарктида", 
+      "file": "glacier_melting.md",
+      "wikidata": "Q919917"
+    },
+    {
+      "name": "Возобновляемая энергетика: технологии будущего", 
+      "file": "renewable_energy.md",
+      "wikidata": "Q212347"
+    },
+    {
+      "name": "Углеродная нейтральность: страны-лидеры", 
+      "file": "carbon_neutrality.md",
+      "wikidata": "Q16942367"
+    },
+    {
+      "name": "Геоинженерия: спасение или угроза?", 
+      "file": "geoengineering.md",
+      "wikidata": "Q164206"
+    },
+    {
+      "name": "Климатические беженцы: 1.2 млрд перемещённых", 
+      "file": "climate_refugees.md",
+      "wikidata": "Q5134242"
+    }
+  ]
+}

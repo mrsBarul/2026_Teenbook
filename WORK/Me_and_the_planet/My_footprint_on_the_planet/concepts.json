@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "name": "Куда девается мусор из моего ведра",
+      "file": "kuda_devatsya_musor.md"
+    },
+    {
+      "name": "Сколько пластика я использую за день",
+      "file": "skolko_plastika.md"
+    },
+    {
+      "name": "Что такое углеродный след",
+      "file": "uglerodny_sled.md"
+    },
+    {
+      "name": "Личная ответственность перед планетой",
+      "file": "lichnaya_otvetstvennost.md"
+    }
+  ]
+}

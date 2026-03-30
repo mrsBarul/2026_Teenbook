@@ -1,0 +1,915 @@
+{
+  "head": {
+    "vars": [
+      "source",
+      "sourceLabel",
+      "property",
+      "propertyLabel",
+      "target",
+      "targetLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40821"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q930752"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хирургия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медицинская специальность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11474"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214609"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пластмасса"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "материал"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40821"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11862829"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хирургия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "академическая дисциплина"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q310667"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7942"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1542"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "углеродный след"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "глобальное потепление"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7366"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114586269"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "песня"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "лирико-музыкальное произведение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107161"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gustav Gundlach"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человек"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7366"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107487333"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "песня"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип музыкального произведения"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12517127"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26211545"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sukorejo"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "деса"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2251595"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "защита"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11474"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1783121"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пластмасса"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "органическая материя"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q310667"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234173"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "углеродный след"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Экологический след"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q268592"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль экономики"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q310667"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q151885"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "углеродный след"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "понятие"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3249551"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "процесс"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17163083"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sustainability and environmental management"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7366"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483394"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "песня"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10566551"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "безопасность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11862829"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "академическая дисциплина"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979837"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "new social movements"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219416"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "устойчивость окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5413422"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "European waste hierarchy"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40821"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113129019"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хирургия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "клинические науки"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7366"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4263830"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "песня"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "литературная форма"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24963174"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "energy and environmental engineering"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q310667"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125928"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1542"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "углеродный след"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "глобальное потепление"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q310667"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1779838"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "углеродный след"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стандарт бухгалтерского учёта"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11862829"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "академическая дисциплина"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q310667"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5133515"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "углеродный след"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "climate footprint"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210588"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P31"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обобщающий термин"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2855609"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "движение в защиту окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7163"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "политика"
+        }
+      }
+    ]
+  }
+}

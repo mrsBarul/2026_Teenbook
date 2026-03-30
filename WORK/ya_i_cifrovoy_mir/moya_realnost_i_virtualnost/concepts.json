@@ -1,0 +1,314 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "section_slug": "ya_i_cifrovoy_mir",
+  "topic": {
+    "slug": "moya_realnost_i_virtualnost",
+    "title": "Моя реальность/виртуальность",
+    "description": "Тема об онлайн- и офлайн-жизни, самопрезентации и FOMO.",
+    "status": "draft_ready",
+    "keywords": [
+      "онлайн",
+      "оффлайн",
+      "личность",
+      "FOMO",
+      "общение"
+    ],
+    "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost",
+    "work_path": "WORK/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost"
+  },
+  "articles": [
+    {
+      "id": "zhizn_onlayn_i_v_reale",
+      "slug": "zhizn_onlayn_i_v_reale",
+      "title": "Жизнь в онлайне и в реале — где я больше",
+      "summary": "Как цифровое общение меняет повседневную жизнь и почему важно замечать равновесие.",
+      "keywords": [
+        "онлайн",
+        "оффлайн",
+        "баланс",
+        "время"
+      ],
+      "aliases": [
+        "онлайн и офлайн",
+        "жизнь онлайн"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/zhizn_onlayn_i_v_reale.md",
+      "related_articles": [
+        "strah_propustit_chto_to_fomo",
+        "ekrannoe_vremya",
+        "kak_druzhit_oflayn_kogda_privyk_online"
+      ],
+      "wikidata_seed_labels": [
+        "virtual community",
+        "social network",
+        "online identity",
+        "fear of missing out"
+      ]
+    },
+    {
+      "id": "virtualnaya_lichnost",
+      "slug": "virtualnaya_lichnost",
+      "title": "Виртуальная личность: я или не я",
+      "summary": "Как человек показывает себя в сети и почему онлайн-образ может отличаться от обычного.",
+      "keywords": [
+        "виртуальная личность",
+        "профиль",
+        "образ",
+        "самопрезентация"
+      ],
+      "aliases": [
+        "виртуальная личность",
+        "онлайн-образ"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/virtualnaya_lichnost.md",
+      "related_articles": [
+        "cifrovoi_sled",
+        "chto_mozhno_i_nelzya_postit",
+        "zhizn_onlayn_i_v_reale"
+      ],
+      "wikidata_seed_labels": [
+        "virtual community",
+        "social network",
+        "online identity",
+        "fear of missing out"
+      ]
+    },
+    {
+      "id": "znakomstva_v_seti_i_v_zhizni",
+      "slug": "znakomstva_v_seti_i_v_zhizni",
+      "title": "Знакомства в сети vs в жизни",
+      "summary": "Чем отличаются первые впечатления, доверие и общение в интернете и вживую.",
+      "keywords": [
+        "знакомство",
+        "общение",
+        "доверие",
+        "онлайн"
+      ],
+      "aliases": [
+        "знакомства в сети",
+        "знакомства в жизни"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/znakomstva_v_seti_i_v_zhizni.md",
+      "related_articles": [
+        "opasnye_znakomstva_v_seti",
+        "virtualnaya_lichnost",
+        "kak_druzhit_oflayn_kogda_privyk_online"
+      ],
+      "wikidata_seed_labels": [
+        "virtual community",
+        "social network",
+        "online identity",
+        "fear of missing out"
+      ]
+    },
+    {
+      "id": "strah_propustit_chto_to_fomo",
+      "slug": "strah_propustit_chto_to_fomo",
+      "title": "Страх пропустить что-то (FOMO)",
+      "summary": "Почему кажется, что все вокруг живут интереснее, и как не попасть в ловушку сравнения.",
+      "keywords": [
+        "FOMO",
+        "сравнение",
+        "соцсети",
+        "тревога"
+      ],
+      "aliases": [
+        "FOMO",
+        "страх пропустить"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/strah_propustit_chto_to_fomo.md",
+      "related_articles": [
+        "zhizn_onlayn_i_v_reale",
+        "informacionnyj_puzyr",
+        "ekrannoe_vremya"
+      ],
+      "wikidata_seed_labels": [
+        "virtual community",
+        "social network",
+        "online identity",
+        "fear of missing out"
+      ]
+    },
+    {
+      "id": "kak_druzhit_oflayn_kogda_privyk_online",
+      "slug": "kak_druzhit_oflayn_kogda_privyk_online",
+      "title": "Как дружить офлайн, когда привык онлайн",
+      "summary": "Как перенести удобство цифрового общения в настоящие встречи и разговоры.",
+      "keywords": [
+        "дружба",
+        "оффлайн",
+        "привычка",
+        "общение"
+      ],
+      "aliases": [
+        "дружить офлайн",
+        "офлайн-дружба"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/kak_druzhit_oflayn_kogda_privyk_online.md",
+      "related_articles": [
+        "zhizn_onlayn_i_v_reale",
+        "cifrovoi_detoks",
+        "znakomstva_v_seti_i_v_zhizni"
+      ],
+      "wikidata_seed_labels": [
+        "virtual community",
+        "social network",
+        "online identity",
+        "fear of missing out"
+      ]
+    }
+  ],
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "online",
+        "label": "онлайн-жизнь",
+        "kind": "state",
+        "description": "Часть жизни, связанная с цифровыми сервисами.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "offline",
+        "label": "офлайн-жизнь",
+        "kind": "state",
+        "description": "Личное общение и дела вне экрана.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "identity",
+        "label": "виртуальная личность",
+        "kind": "concept",
+        "description": "Образ человека в цифровой среде.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "presentation",
+        "label": "самопрезентация",
+        "kind": "action",
+        "description": "Способ показать себя другим.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "fomo",
+        "label": "FOMO",
+        "kind": "state",
+        "description": "Тревога из-за страха что-то пропустить.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "network",
+        "label": "социальная сеть",
+        "kind": "system",
+        "description": "Платформа для общения и публикаций.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "trust",
+        "label": "доверие",
+        "kind": "social",
+        "description": "Основа общения и знакомства.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      },
+      {
+        "id": "friendship",
+        "label": "дружба",
+        "kind": "social",
+        "description": "Устойчивая форма отношений между людьми.",
+        "article_refs": [
+          "zhizn_onlayn_i_v_reale",
+          "virtualnaya_lichnost",
+          "znakomstva_v_seti_i_v_zhizni"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "identity",
+        "target": "presentation",
+        "relation": "строится через",
+        "kind": "functional"
+      },
+      {
+        "source": "network",
+        "target": "fomo",
+        "relation": "может усиливать",
+        "kind": "causal"
+      },
+      {
+        "source": "online",
+        "target": "offline",
+        "relation": "нуждается в балансе с",
+        "kind": "regulatory"
+      },
+      {
+        "source": "trust",
+        "target": "friendship",
+        "relation": "поддерживает",
+        "kind": "social"
+      },
+      {
+        "source": "online",
+        "target": "identity",
+        "relation": "делает заметной",
+        "kind": "social"
+      },
+      {
+        "source": "friendship",
+        "target": "offline",
+        "relation": "укрепляется в",
+        "kind": "social"
+      },
+      {
+        "source": "fomo",
+        "target": "trust",
+        "relation": "может мешать",
+        "kind": "psychological"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_labels": [
+      "virtual community",
+      "social network",
+      "online identity",
+      "fear of missing out",
+      "interpersonal relationship"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "part of",
+      "has effect",
+      "practiced by"
+    ],
+    "notes": "При реальном запуске запросов метки лучше уточнить вручную и заменить на QID там, где это возможно."
+  }
+}

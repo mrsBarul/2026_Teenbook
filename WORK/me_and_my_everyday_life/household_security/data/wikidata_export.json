@@ -1,0 +1,185 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6010868"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нахождение субъекта вне общества"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "одиночество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10566551"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состояние субъекта или объекта в условиях возможных факторов опасности"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "безопасность"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131774"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человек в подростковом возрасте"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковый возраст"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182995"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "кухонный прибор для приготовления пищи"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "кухонная плита"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483634"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бытовой электроприбор, предназначенный для разглаживания складок на одежде"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "утюг"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q485537"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ощущение присутствия в воздухе пахучих веществ"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запах"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1132455"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возможность возникновения обстоятельств, которые приведут к ухудшению ситуации"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "опасность"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2425052"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "управляющее электротехническое устройство"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электрический аппарат"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q815867"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аптечка"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12069731"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обогреватель"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13197964"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "незнакомец"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41551"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "труба"
+        }
+      }
+    ]
+  }
+}

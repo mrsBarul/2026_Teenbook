@@ -1,0 +1,51 @@
+{
+  "query_name": "wildfire",
+  "timestamp": "2026-03-21T02:18:04.111718",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 2,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q107434304"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "неконтролируемое горение растительности и стихийное распространение огня по площади леса"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "лесной пожар"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q169950"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "стихийное, неконтролируемое распространение огня по лесным площадям"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "природный пожар"
+          }
+        }
+      ]
+    }
+  }
+}
