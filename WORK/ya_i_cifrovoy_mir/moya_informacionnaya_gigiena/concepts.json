@@ -1,0 +1,315 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "section_slug": "ya_i_cifrovoy_mir",
+  "topic": {
+    "slug": "moya_informacionnaya_gigiena",
+    "title": "Моя информационная гигиена",
+    "description": "Тема о фейках, источниках, алгоритмах рекомендаций и медиаграмотности.",
+    "status": "draft_ready",
+    "keywords": [
+      "фейк",
+      "новости",
+      "боты",
+      "пузырь",
+      "уведомления"
+    ],
+    "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena",
+    "work_path": "WORK/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena"
+  },
+  "articles": [
+    {
+      "id": "kak_otlichit_fejk_ot_pravdy",
+      "slug": "kak_otlichit_fejk_ot_pravdy",
+      "title": "Как отличить фейк от правды",
+      "summary": "Какие простые вопросы помогают не поверить первой попавшейся картинке или новости.",
+      "keywords": [
+        "фейк",
+        "правда",
+        "источник",
+        "проверка"
+      ],
+      "aliases": [
+        "фейк",
+        "проверка фактов"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kak_otlichit_fejk_ot_pravdy.md",
+      "related_articles": [
+        "informacionnyj_puzyr",
+        "kto_takie_boty_i_trolli",
+        "chto_mozhno_i_nelzya_postit"
+      ],
+      "wikidata_seed_labels": [
+        "misinformation",
+        "news",
+        "social media",
+        "bot"
+      ]
+    },
+    {
+      "id": "pochemu_novosti_pugayut",
+      "slug": "pochemu_novosti_pugayut",
+      "title": "Почему новости пугают и что с этим делать",
+      "summary": "Почему тревожные новости цепляют внимание сильнее и как защищать себя от перегруза.",
+      "keywords": [
+        "новости",
+        "тревога",
+        "эмоции",
+        "информация"
+      ],
+      "aliases": [
+        "тревожные новости",
+        "новостная тревога"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/pochemu_novosti_pugayut.md",
+      "related_articles": [
+        "kogda_nuzhno_vyklyuchat_uvedomleniya",
+        "priznaki_peregruza_ot_seti",
+        "kak_otlichit_fejk_ot_pravdy"
+      ],
+      "wikidata_seed_labels": [
+        "misinformation",
+        "news",
+        "social media",
+        "bot"
+      ]
+    },
+    {
+      "id": "informacionnyj_puzyr",
+      "slug": "informacionnyj_puzyr",
+      "title": "Информационный пузырь: почему я вижу только одно",
+      "summary": "Как алгоритмы рекомендаций сужают взгляд на мир и почему полезно искать другие точки зрения.",
+      "keywords": [
+        "информационный пузырь",
+        "алгоритм",
+        "лента",
+        "мнение"
+      ],
+      "aliases": [
+        "информационный пузырь",
+        "алгоритм рекомендаций"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/informacionnyj_puzyr.md",
+      "related_articles": [
+        "kak_otlichit_fejk_ot_pravdy",
+        "kto_takie_boty_i_trolli",
+        "strah_propustit_chto_to_fomo"
+      ],
+      "wikidata_seed_labels": [
+        "misinformation",
+        "news",
+        "social media",
+        "bot"
+      ]
+    },
+    {
+      "id": "kto_takie_boty_i_trolli",
+      "slug": "kto_takie_boty_i_trolli",
+      "title": "Кто такие боты и тролли",
+      "summary": "Как отличить живое общение от провокации или автоматизированной активности.",
+      "keywords": [
+        "бот",
+        "тролль",
+        "провокация",
+        "комментарии"
+      ],
+      "aliases": [
+        "боты",
+        "тролли"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kto_takie_boty_i_trolli.md",
+      "related_articles": [
+        "kak_otlichit_fejk_ot_pravdy",
+        "kiberbulling",
+        "informacionnyj_puzyr"
+      ],
+      "wikidata_seed_labels": [
+        "misinformation",
+        "news",
+        "social media",
+        "bot"
+      ]
+    },
+    {
+      "id": "kogda_nuzhno_vyklyuchat_uvedomleniya",
+      "slug": "kogda_nuzhno_vyklyuchat_uvedomleniya",
+      "title": "Когда нужно выключать уведомления",
+      "summary": "Почему иногда полезно специально уменьшать поток сигналов и новостей.",
+      "keywords": [
+        "уведомления",
+        "внимание",
+        "режим",
+        "новости"
+      ],
+      "aliases": [
+        "выключать уведомления",
+        "уведомления"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kogda_nuzhno_vyklyuchat_uvedomleniya.md",
+      "related_articles": [
+        "pochemu_novosti_pugayut",
+        "ekrannoe_vremya",
+        "cifrovoi_detoks"
+      ],
+      "wikidata_seed_labels": [
+        "misinformation",
+        "news",
+        "social media",
+        "bot"
+      ]
+    }
+  ],
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "fake",
+        "label": "фейк",
+        "kind": "concept",
+        "description": "Ложная или искажённая информация.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "fact",
+        "label": "факт",
+        "kind": "concept",
+        "description": "Проверяемое утверждение или событие.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "source",
+        "label": "источник",
+        "kind": "resource",
+        "description": "Место, откуда пришла информация.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "news",
+        "label": "новость",
+        "kind": "media",
+        "description": "Сообщение о событии.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "algorithm",
+        "label": "алгоритм рекомендаций",
+        "kind": "system",
+        "description": "Система отбора и показа контента.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "bubble",
+        "label": "информационный пузырь",
+        "kind": "state",
+        "description": "Ситуация, когда человек видит только похожий контент.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "bot",
+        "label": "бот",
+        "kind": "agent",
+        "description": "Программа, которая автоматически публикует или отвечает.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      },
+      {
+        "id": "troll",
+        "label": "тролль",
+        "kind": "agent",
+        "description": "Человек или аккаунт, который провоцирует конфликт.",
+        "article_refs": [
+          "kak_otlichit_fejk_ot_pravdy",
+          "pochemu_novosti_pugayut",
+          "informacionnyj_puzyr"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "source",
+        "target": "fact",
+        "relation": "помогает проверить",
+        "kind": "epistemic"
+      },
+      {
+        "source": "fake",
+        "target": "news",
+        "relation": "может маскироваться под",
+        "kind": "epistemic"
+      },
+      {
+        "source": "algorithm",
+        "target": "bubble",
+        "relation": "формирует",
+        "kind": "causal"
+      },
+      {
+        "source": "bot",
+        "target": "news",
+        "relation": "распространяет",
+        "kind": "causal"
+      },
+      {
+        "source": "troll",
+        "target": "discussion",
+        "relation": "провоцирует",
+        "kind": "social"
+      },
+      {
+        "source": "bubble",
+        "target": "source",
+        "relation": "сужает выбор",
+        "kind": "causal"
+      },
+      {
+        "source": "news",
+        "target": "attention",
+        "relation": "захватывает",
+        "kind": "behavioral"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_labels": [
+      "misinformation",
+      "news",
+      "social media",
+      "bot",
+      "recommender system",
+      "troll"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "topic's main category",
+      "part of",
+      "studied by"
+    ],
+    "notes": "При реальном запуске запросов метки лучше уточнить вручную и заменить на QID там, где это возможно."
+  }
+}
