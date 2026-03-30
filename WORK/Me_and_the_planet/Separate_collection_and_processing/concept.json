@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "name": "Как сортировать мусор дома",
+      "file": "waste_sorting_home.md"
+    },
+    {
+      "name": "Куда сдавать батарейки, крышечки, одежду",
+      "file": "recycling_points.md"
+    },
+    {
+      "name": "Что происходит с вещами после переработки",
+      "file": "recycling_process.md"
+    },
+    {
+      "name": "Маркировки на упаковках — как читать",
+      "file": "recycling_labels.md"
+    }
+  ]
+}

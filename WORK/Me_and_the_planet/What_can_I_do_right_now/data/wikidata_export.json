@@ -1,0 +1,1901 @@
+{
+  "head": {
+    "vars": [
+      "source",
+      "sourceLabel",
+      "property",
+      "propertyLabel",
+      "target",
+      "targetLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1075"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цвет"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128709"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вязкость"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179388"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "теплоёмкость"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180600"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "влажность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182677"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "амфотерность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3236003"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "твёрдость"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30007162"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "без запаха"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30100868"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "безвкусное"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57385793"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1542"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "шарики Зильсера"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2095"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пища"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4022"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "река"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103135"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гидролиз"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14820652"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "транспорт воды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14820677"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гомеостаз воды в многоклеточном организме"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14863690"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гомеостаз воды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14902497"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "water transmembrane transporter activity"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14902498"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "water channel activity"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14904766"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cellular water homeostasis"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22272199"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cellular response to water stimulus"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22272594"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "реакция на воду"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50690"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оксид"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q283"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11723014"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вода"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "халькогенид диводорода"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12705"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q795757"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возобновляемая энергия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "энергетический поворот"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12705"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219416"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возобновляемая энергия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "устойчивость окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12705"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1138571"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возобновляемая энергия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возобновляемый ресурс"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12705"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1522115"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возобновляемая энергия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "источник энергии"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12705"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3958441"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возобновляемая энергия"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сектор экономики"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219416"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "устойчивость окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q842388"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разнообразие экосистемы"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1823478"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отношение между организмами"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2246744"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экологическое равновесие"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3738275"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "способность к адаптации"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164625"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "consumer–resource interactions"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5333232"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ecological efficiency"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5333257"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экологическая устойчивость"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17011699"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ecosystem health"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125824188"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип экосистемы"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43619"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "окружающая среда"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2904233"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биорегион"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37813"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30336093"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистема"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биологическая система"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2684232"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112117722"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "waste disposal"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подразделение в классификации производственной деятельности"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2684232"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29584214"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "waste disposal"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "водоснабжение; системы канализации, удаление отходов и меры по восстановлению окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2491892"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экологическая награда"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47041"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6496857"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биоразнообразие"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Latitudinal gradients in species diversity"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47041"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q295865"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1542"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биоразнообразие"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экосистемные услуги"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47041"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5333230"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1542"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биоразнообразие"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ecological effects of biodiversity"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2855609"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "движение в защиту окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47041"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биоразнообразие"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жизнь"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7163"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "политика"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219416"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "устойчивость окружающей среды"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979837"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "new social movements"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11474"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214609"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пластмасса"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "материал"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1133632"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8028"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ёсэй"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фея"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832237"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2251595"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "охрана окружающей среды"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "защита"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47041"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q420"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биоразнообразие"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биология"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47041"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36793538"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биоразнообразие"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разнообразие"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7930989"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3259063"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "город"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "долгосрочность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7930989"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145472"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1552"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "город"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "городское население"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q931389"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180388"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1269"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сортировка отходов"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система управления отходами"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q931389"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132580"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P361"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сортировка отходов"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "переработка отходов"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q931389"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36993249"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сортировка отходов"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "упорядочивание"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7930989"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3257686"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "город"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обжитая местность"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7930989"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124250988"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "город"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "городское поселение"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3569631"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32090"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sustainable living"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образ жизни"
+        }
+      },
+      {
+        "source": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3569631"
+        },
+        "target": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219416"
+        },
+        "property": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P279"
+        },
+        "sourceLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sustainable living"
+        },
+        "propertyLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "targetLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "устойчивость окружающей среды"
+        }
+      }
+    ]
+  }
+}

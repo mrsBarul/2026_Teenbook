@@ -1,0 +1,88 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132580"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "повторное (вторичное) использование отходов"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "переработка отходов"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q931389"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разделение мусора по категориям для упрощения его переработки"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сортировка отходов"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2684232"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "utilizatsiya"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "waste disposal"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45701"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "что негодно для использования и подлежит переработке"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отходы"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219534"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "recycling symbol"
+        }
+      }
+    ]
+  }
+}

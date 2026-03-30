@@ -1,0 +1,72 @@
+{
+  "query_name": "env",
+  "timestamp": "2026-03-20T22:25:24.080242",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 5,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q295754"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q295754"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1428108"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "room air distribution"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q26857940"
+          },
+          "itemLabel": {
+            "type": "literal",
+            "value": "Q26857940"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q55693915"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "ecology and environmental protection - eep"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q59351530"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "oil record book"
+          }
+        }
+      ]
+    }
+  }
+}
