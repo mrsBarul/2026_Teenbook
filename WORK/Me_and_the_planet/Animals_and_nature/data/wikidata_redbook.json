@@ -1,0 +1,51 @@
+{
+  "query_name": "redbook",
+  "timestamp": "2026-03-21T02:18:03.712873",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 2,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q552725"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "российская военная драма режиссёра Фёдора Бондарчука 2013 года"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "Сталинград"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11394"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "охранный статус МСОП"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "вымирающие виды"
+          }
+        }
+      ]
+    }
+  }
+}

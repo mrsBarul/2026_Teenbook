@@ -1,0 +1,46 @@
+{
+  "query_name": "stopnewdisasters",
+  "timestamp": "2026-03-21T00:17:54.789153",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 2,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5134242"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Clinton Township"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11959879"
+          },
+          "itemLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ayyaz"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "мужское личное имя"
+          }
+        }
+      ]
+    }
+  }
+}

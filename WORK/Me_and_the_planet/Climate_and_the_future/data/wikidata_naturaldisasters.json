@@ -1,0 +1,46 @@
+{
+  "query_name": "naturaldisasters",
+  "timestamp": "2026-03-21T00:17:54.274700",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 2,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q919917"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "накопительное кольцо"
+          }
+        },
+        {
+          "item": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q8074"
+          },
+          "itemLabel": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "облако"
+          },
+          "description": {
+            "xml:lang": "ru",
+            "type": "literal",
+            "value": "взвешенные в атмосфере продукты конденсации водяного пара"
+          }
+        }
+      ]
+    }
+  }
+}

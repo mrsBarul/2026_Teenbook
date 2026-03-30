@@ -1,0 +1,161 @@
+@startuml
+skinparam linetype ortho
+skinparam rectangle {
+  RoundCorner 20
+}
+
+' === Центральная сущность ===
+rectangle "Человек" as Human
+
+' === Ответственность и влияние ===
+rectangle "Личная ответственность" as Responsibility
+rectangle "Осознанность" as Awareness
+rectangle "Экологический след" as EcoFootprint
+rectangle "Углеродный след" as CarbonFootprint
+rectangle "Потребление" as Consumption
+rectangle "Ресурсы" as Resources
+rectangle "Окружающая среда" as Environment
+
+' === Отходы и переработка ===
+rectangle "Отходы" as Waste
+rectangle "Сортировка" as Sorting
+rectangle "Раздельный сбор" as SeparateCollection
+rectangle "Переработка" as Recycling
+rectangle "Вторсырьё" as SecondaryRaw
+rectangle "Свалка" as Landfill
+rectangle "Загрязнение" as Pollution
+rectangle "Пластик" as Plastic
+rectangle "Бумага" as Paper
+rectangle "Стекло" as Glass
+rectangle "Батарейки" as Batteries
+rectangle "Упаковка" as Packaging
+rectangle "Маркировка" as Labeling
+
+' === Осознанное потребление ===
+rectangle "Потребитель" as Consumer
+rectangle "Покупка" as Purchase
+rectangle "Потребность" as Need
+rectangle "Импульс" as Impulse
+rectangle "Маркетинг" as Marketing
+rectangle "Fast fashion" as FastFashion
+rectangle "Вещь" as Item
+rectangle "Ремонт" as Repair
+rectangle "Право на ремонт" as RightToRepair
+rectangle "Секонд-хенд" as SecondHand
+rectangle "Своп" as Swap
+rectangle "Устойчивое развитие" as SustainableDevelopment
+
+' === Природа и животные ===
+rectangle "Охрана природы" as NatureProtection
+rectangle "Экосистема" as Ecosystem
+rectangle "Биоразнообразие" as Biodiversity
+rectangle "Красная книга" as RedBook
+rectangle "Исчезающие виды" as EndangeredSpecies
+rectangle "Бездомные животные" as StrayAnimals
+rectangle "Приют для животных" as Shelter
+rectangle "Заповедники" as Reserves
+rectangle "Национальные парки" as NationalParks
+rectangle "Лесные пожары" as Wildfires
+rectangle "Волонтёрство" as Volunteering
+rectangle "Экологическое просвещение" as EcoEducation
+rectangle "Законодательство" as Legislation
+
+' === Климат и будущее ===
+rectangle "Глобальное потепление" as GlobalWarming
+rectangle "Изменение климата" as ClimateChange
+rectangle "Выбросы CO2" as CO2
+rectangle "Природные катастрофы" as Disasters
+rectangle "Возобновляемая энергия" as RenewableEnergy
+rectangle "Будущее" as Future
+
+' === Практические действия ===
+rectangle "Эко-привычки" as EcoHabits
+rectangle "Экономия воды" as WaterSaving
+rectangle "Эко-упаковка" as EcoPackaging
+rectangle "Личный экоплан" as EcoPlan
+
+' ================================
+' 🔗 СВЯЗИ
+' ================================
+
+' --- Человек и ответственность ---
+Human --> Responsibility : несёт
+Human --> Consumption : осуществляет
+Human --> Environment : влияет на
+Responsibility --> Awareness : требует
+Awareness --> Consumption : делает более осознанным
+Consumption --> EcoFootprint : формирует
+CarbonFootprint --> EcoFootprint : является частью
+Consumption --> Resources : использует
+
+' --- Отходы и переработка ---
+Human --> Waste : производит
+Human --> Plastic : использует
+Waste --> Sorting : требует
+Sorting --> SeparateCollection : реализуется через
+SeparateCollection --> Recycling : направляет на
+Recycling --> SecondaryRaw : превращает в
+Waste --> Landfill : попадает на
+Landfill --> Pollution : усиливает
+Plastic --> Pollution : увеличивает
+Paper --> Recycling : подлежит
+Glass --> Recycling : подлежит
+Plastic --> Recycling : подлежит
+Batteries --> SeparateCollection : требуют специального
+Packaging --> Labeling : имеет
+Labeling --> Sorting : помогает
+
+' --- Осознанное потребление ---
+Human --> Consumer : выступает как
+Consumer --> Purchase : совершает
+Purchase --> Need : может быть вызвана
+Purchase --> Impulse : может быть вызвана
+Marketing --> Impulse : усиливает
+Purchase --> Item : приводит к приобретению
+FastFashion --> Consumption : ускоряет
+FastFashion --> Waste : увеличивает
+Item --> Repair : может быть отдана в
+RightToRepair --> Repair : поддерживает
+SecondHand --> Consumption : снижает
+Swap --> Consumption : снижает
+Repair --> Waste : уменьшает
+SecondHand --> Waste : сокращает
+Swap --> Waste : сокращает
+Repair --> SustainableDevelopment : способствует
+SecondHand --> SustainableDevelopment : способствует
+Swap --> SustainableDevelopment : способствует
+
+' --- Природа и животные ---
+NatureProtection --> Ecosystem : сохраняет
+NatureProtection --> Biodiversity : сохраняет
+RedBook --> EndangeredSpecies : фиксирует
+EndangeredSpecies --> Biodiversity : являются частью
+Reserves --> NatureProtection : обеспечивают
+NationalParks --> NatureProtection : поддерживают
+Wildfires --> Ecosystem : разрушают
+Wildfires --> Biodiversity : сокращают
+Shelter --> StrayAnimals : принимает
+Volunteering --> Shelter : помогает
+Volunteering --> NatureProtection : поддерживает
+EcoEducation --> Responsibility : формирует
+EcoEducation --> Awareness : развивает
+Legislation --> NatureProtection : регулирует
+
+' --- Климат ---
+CO2 --> GlobalWarming : усиливают
+GlobalWarming --> ClimateChange : проявляется как
+ClimateChange --> Disasters : приводит к
+ClimateChange --> Future : влияет на
+RenewableEnergy --> CO2 : снижает
+RenewableEnergy --> SustainableDevelopment : поддерживает
+
+' --- Практические действия ---
+Human --> EcoHabits : формирует
+EcoHabits --> WaterSaving : включают
+EcoHabits --> EcoPackaging : включают
+EcoHabits --> SeparateCollection : включают
+EcoHabits --> Repair : включают
+EcoPlan --> EcoHabits : объединяет
+EcoPlan --> Responsibility : выражает
+Human --> EcoPlan : составляет
+@enduml

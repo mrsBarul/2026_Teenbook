@@ -1,0 +1,30 @@
+{
+  "section": "Я и планета",
+  "subsection": "Что я могу сделать прямо сейчас",
+  "concepts": [
+    {
+      "id": "10_prostyh_eko_privychek",
+      "title": "10 простых эко-привычек",
+      "wikidata_id": "Q3569631",
+      "wikidata_label": "sustainable lifestyle"
+    },
+    {
+      "id": "kak_vdohnovit_druzei",
+      "title": "Как вдохновить друзей и семью",
+      "wikidata_id": "Q1307337",
+      "wikidata_label": "social influence"
+    },
+    {
+      "id": "balans_ekologii_i_zhizni",
+      "title": "Баланс экологии и жизни",
+      "wikidata_id": "Q131201",
+      "wikidata_label": "sustainable development"
+    },
+    {
+      "id": "moy_lichnyy_ekoplan",
+      "title": "Мой личный экоплан",
+      "wikidata_id": "Q422638",
+      "wikidata_label": "action plan"
+    }
+  ]
+}

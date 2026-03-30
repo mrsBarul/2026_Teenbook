@@ -1,0 +1,98 @@
+{
+  "targets": [
+    {
+      "concept": "углеродный след",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/uglerodny_sled.md",
+      "aliases": ["углеродный след", "углеродного следа", "углеродному следу"]
+    },
+    {
+      "concept": "пластик",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/skolko_plastika.md",
+      "aliases": ["пластик", "пластика", "пластиком", "пластике"]
+    },
+    {
+      "concept": "мусор",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/kuda_devatsya_musor.md",
+      "aliases": ["мусор", "мусора", "мусором", "мусоре"]
+    },
+    {
+      "concept": "ответственность",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/lichnaya_otvetstvennost.md",
+      "aliases": ["ответственность", "ответственности", "ответственностью"]
+    },
+
+    {
+      "concept": "сортировка мусора",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/sorting-waste-at-home.md",
+      "aliases": ["сортировка", "сортировать мусор", "раздельный сбор"]
+    },
+    {
+      "concept": "переработка",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/what-happens-after-recycling.md",
+      "aliases": ["переработка", "переработки", "переработку"]
+    },
+    {
+      "concept": "маркировка",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/packaging-labels-how-to-read.md",
+      "aliases": ["маркировка", "маркировки", "значки на упаковке"]
+    },
+    {
+      "concept": "батарейки",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/battery-caps-clothes-recycling.md",
+      "aliases": ["батарейки", "батареек", "батарейку"]
+    },
+
+    {
+      "concept": "fast fashion",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/fast_fashion_problema.md",
+      "aliases": ["fast fashion", "быстрая мода"]
+    },
+    {
+      "concept": "покупка",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/nuzhna_li_eshche_odna_futbolka.md",
+      "aliases": ["покупка", "покупки", "покупать"]
+    },
+    {
+      "concept": "ремонт",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/remont_vmesto_vybrosa.md",
+      "aliases": ["ремонт", "починить", "чинить"]
+    },
+    {
+      "concept": "секонд-хенд",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/sekond_khendy_i_svopy.md",
+      "aliases": ["секонд-хенд", "своп", "обмен одеждой"]
+    },
+
+    {
+      "concept": "глобальное потепление",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/global_warming_real.md",
+      "aliases": ["глобальное потепление", "потепление климата"]
+    },
+    {
+      "concept": "климат",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/natural_disasters_climate.md",
+      "aliases": ["климат", "изменение климата"]
+    },
+    {
+      "concept": "катастрофы",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/natural_disasters_climate.md",
+      "aliases": ["катастрофы", "природные катастрофы"]
+    },
+
+    {
+      "concept": "экопривычки",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/10_simple_eco_friendly_habits.md",
+      "aliases": ["эко-привычки", "экопривычки"]
+    },
+    {
+      "concept": "экоплан",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/my_personal_eco_plane.md",
+      "aliases": ["экоплан", "личный экоплан"]
+    },
+    {
+      "concept": "баланс",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/balance_of_ecology_and_life.md",
+      "aliases": ["баланс", "баланс экологии"]
+    }
+  ]
+}

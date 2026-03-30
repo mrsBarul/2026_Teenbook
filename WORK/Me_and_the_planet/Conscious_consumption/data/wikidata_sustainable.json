@@ -1,0 +1,18 @@
+{
+  "query_name": "sustainable",
+  "timestamp": "2026-03-21T04:41:24.941948",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "results_count": 0,
+  "results": {
+    "head": {
+      "vars": [
+        "item",
+        "itemLabel",
+        "description"
+      ]
+    },
+    "results": {
+      "bindings": []
+    }
+  }
+}

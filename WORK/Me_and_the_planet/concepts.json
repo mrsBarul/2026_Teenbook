@@ -1,0 +1,217 @@
+{
+  "project": "Teenbook - Экологическая энциклопедия",
+  "description": "Раздел о экологии и ответственности перед планетой для подростков",
+  "sections": [
+    {
+      "id": "My_footprint_on_the_planet/concept",
+      "name": "Мой след на планете",
+      "description": "Как наши повседневные действия влияют на окружающую среду",
+      "concepts": [
+        {
+          "id": "kuda_devatsya_musor",
+          "name": "Куда девается мусор из моего ведра",
+          "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/kuda_devatsya_musor.md",
+          "category": "Отходы",
+          "prompt_hint": "Объясни путь мусора от мусорного ведра до свалки или переработки"
+        },
+        {
+          "id": "skolko_plastika",
+          "name": "Сколько пластика я использую за день",
+          "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/skolko_plastika.md",
+          "category": "Пластик",
+          "prompt_hint": "Помоги ребенку посчитать пластик в его окружении"
+        },
+        {
+          "id": "uglerodny_sled",
+          "name": "Что такое углеродный след",
+          "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/uglerodny_sled.md",
+          "category": "Климат",
+          "prompt_hint": "Объясни, как наши действия влияют на изменение климата"
+        },
+        {
+          "id": "lichnaya_otvetstvennost",
+          "name": "Личная ответственность перед планетой",
+          "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/lichnaya_otvetstvennost.md",
+          "category": "Ответственность",
+          "prompt_hint": "Почему важно заботиться о природе и что может сделать один человек"
+        }
+      ]
+    },
+    {
+      "id": "Separate_collection_and_processing/concept",
+      "name": "Раздельный сбор и переработка",
+      "description": "Как правильно сортировать отходы и что с ними происходит дальше",
+      "concepts": [
+        {
+          "id": "sortirovka_doma",
+          "name": "Как сортировать мусор дома",
+          "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/sortirovka_doma.md",
+          "category": "Сортировка",
+          "prompt_hint": "Дай простые правила сортировки для дома"
+        },
+        {
+          "id": "kuda_sdavat",
+          "name": "Куда сдавать батарейки, крышечки, одежду",
+          "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/kuda_sdavat.md",
+          "category": "Переработка",
+          "prompt_hint": "Расскажи о пунктах приема и специальных контейнерах"
+        },
+        {
+          "id": "chto_proiskhodit_posle",
+          "name": "Что происходит с вещами после переработки",
+          "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/chto_proiskhodit_posle.md",
+          "category": "Переработка",
+          "prompt_hint": "Объясни, как из переработанных материалов делают новые вещи"
+        },
+        {
+          "id": "markirovki",
+          "name": "Маркировки на упаковках — как читать",
+          "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/markirovki.md",
+          "category": "Знания",
+          "prompt_hint": "Научи разбираться в значках на упаковках"
+        }
+      ]
+    },
+    {
+      "id": "Conscious_consumption/concept/concept",
+      "name": "Осознанное потребление",
+      "description": "Как покупать меньше, но лучше",
+      "concepts": [
+        {
+          "id": "nuzhna_li_esche_odna",
+          "name": "Нужна ли мне еще одна футболка",
+          "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/concept/nuzhna_li_esche_odna.md",
+          "category": "Потребление",
+          "prompt_hint": "Помоги ребенку задуматься о реальных потребностях"
+        },
+        {
+          "id": "fast_fashion",
+          "name": "Fast fashion — почему это проблема",
+          "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/concept/fast_fashion.md",
+          "category": "Мода",
+          "prompt_hint": "Объясни проблему быстрой моды"
+        },
+        {
+          "id": "remont_vmesto_vibrosa",
+          "name": "Ремонт вместо выброса",
+          "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/concept/remont_vmesto_vibrosa.md",
+          "category": "Ответственность",
+          "prompt_hint": "Расскажи, как давать вещам вторую жизнь"
+        },
+        {
+          "id": "second_hand",
+          "name": "Секонд-хенды и свопы: модно и экологично",
+          "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/concept/second_hand.md",
+          "category": "Мода",
+          "prompt_hint": "Покажи преимущества вещей из секонд-хенда"
+        }
+      ]
+    },
+    {
+      "id": "Animals_and_nature/concept",
+      "name": "Животные и природа",
+      "description": "Как помочь сохранить природу и животных",
+      "concepts": [
+        {
+          "id": "krasnaya_kniga",
+          "name": "Красная книга и исчезающие виды",
+          "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/krasnaya_kniga.md",
+          "category": "Природа",
+          "prompt_hint": "Расскажи о редких животных и почему они исчезают"
+        },
+        {
+          "id": "pomoch_zhivotnym",
+          "name": "Как помочь бездомным животным",
+          "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/pomoch_zhivotnym.md",
+          "category": "Животные",
+          "prompt_hint": "Дай конкретные способы помощи бездомным животным"
+        },
+        {
+          "id": "lesnye_pozhary",
+          "name": "Лесные пожары — кто виноват",
+          "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/lesnye_pozhary.md",
+          "category": "Природа",
+          "prompt_hint": "Объясни причины пожаров и как их предотвратить"
+        },
+        {
+          "id": "zapovedniki",
+          "name": "Заповедники и национальные парки",
+          "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/zapovedniki.md",
+          "category": "Природа",
+          "prompt_hint": "Расскажи о заповедниках и почему они важны"
+        }
+      ]
+    },
+    {
+      "id": "Climate_and_the_future/concept",
+      "name": "Климат и будущее",
+      "description": "Что происходит с климатом и как это повлияет на нас",
+      "concepts": [
+        {
+          "id": "globalnoe_poteplenie",
+          "name": "Глобальное потепление — это реально?",
+          "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/globalnoe_poteplenie.md",
+          "category": "Климат",
+          "prompt_hint": "Объясни факты об изменении климата"
+        },
+        {
+          "id": "prirodnye_katastrofy",
+          "name": "Природные катастрофы",
+          "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/prirodnye_katastrofy.md",
+          "category": "Климат",
+          "wikidata_id": "Q8065",
+          "prompt_hint": "Расскажи о природных катастрофах и их причинах"
+        },
+        {
+          "id": "budushee_cherez_50_let",
+          "name": "Что будет через 50 лет",
+          "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/budushee_cherez_50_let.md",
+          "category": "Будущее",
+          "prompt_hint": "Пофантазируй о будущем с оптимизмом"
+        },
+        {
+          "id": "ostanovit_izmeneniya",
+          "name": "Можно ли остановить изменения",
+          "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/ostanovit_izmeneniya.md",
+          "category": "Климат",
+          "prompt_hint": "Объясни, что каждый может сделать для климата"
+        }
+      ]
+    },
+    {
+      "id": "What_can_I_do_right_now/concept",
+      "name": "Что я могу сделать прямо сейчас",
+      "description": "Простые шаги, которые меняют мир",
+      "concepts": [
+        {
+          "id": "10_eco_habits",
+          "name": "10 простых эко-привычек",
+          "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/10_eco_habits.md",
+          "category": "Привычки",
+          "prompt_hint": "Опиши 10 простых привычек для заботы о планете"
+        },
+        {
+          "id": "inspire_others",
+          "name": "Как вдохновить друзей и семью",
+          "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/inspire_others.md",
+          "category": "Вдохновение",
+          "prompt_hint": "Расскажи, как делиться эко-привычками без давления"
+        },
+        {
+          "id": "balance",
+          "name": "Баланс экологии и жизни",
+          "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/balance.md",
+          "category": "Осознанность",
+          "prompt_hint": "Объясни, что не нужно быть идеальным эко-активистом"
+        },
+        {
+          "id": "my_eco_plan",
+          "name": "Мой личный экоплан",
+          "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/my_eco_plan.md",
+          "category": "Планирование",
+          "prompt_hint": "Помоги создать персональный план экологических действий"
+        }
+      ]
+    }
+  ]
+}

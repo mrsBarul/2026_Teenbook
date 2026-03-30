@@ -1,0 +1,153 @@
+{
+  "concepts": [
+    {
+      "name": "Куда девается мусор из моего ведра",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/where-trash-from-my-bin-goes.md",
+      "section": "My_footprint_on_the_planet",
+      "work_concepts_file": "WORK/Me_and_the_planet/My_footprint_on_the_planet/concepts.json"
+    },
+    {
+      "name": "Сколько пластика я использую за день",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/how-much-plastic-i-use-in-a-day.md",
+      "section": "My_footprint_on_the_planet",
+      "work_concepts_file": "WORK/Me_and_the_planet/My_footprint_on_the_planet/concepts.json"
+    },
+    {
+      "name": "Что такое углеродный след",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/what-is-carbon-footprint.md",
+      "section": "My_footprint_on_the_planet",
+      "work_concepts_file": "WORK/Me_and_the_planet/My_footprint_on_the_planet/concepts.json"
+    },
+    {
+      "name": "Личная ответственность перед планетой",
+      "file": "WEB/Me_and_the_planet/My_footprint_on_the_planet/concept/personal-responsibility-for-the-planet.md",
+      "section": "My_footprint_on_the_planet",
+      "work_concepts_file": "WORK/Me_and_the_planet/My_footprint_on_the_planet/concepts.json"
+    },
+
+    {
+      "name": "Как сортировать мусор дома",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/how-to-sort-waste-at-home.md",
+      "section": "Separate_collection_and_processing",
+      "work_concepts_file": "WORK/Me_and_the_planet/Separate_collection_and_processing/concepts.json"
+    },
+    {
+      "name": "Куда сдавать батарейки, крышечки, одежду",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/where-to-take-batteries-caps-and-clothes.md",
+      "section": "Separate_collection_and_processing",
+      "work_concepts_file": "WORK/Me_and_the_planet/Separate_collection_and_processing/concepts.json"
+    },
+    {
+      "name": "Что происходит с вещами после переработки",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/what-happens-after-recycling.md",
+      "section": "Separate_collection_and_processing",
+      "work_concepts_file": "WORK/Me_and_the_planet/Separate_collection_and_processing/concepts.json"
+    },
+    {
+      "name": "Маркировки на упаковках — как читать",
+      "file": "WEB/Me_and_the_planet/Separate_collection_and_processing/concept/packaging-labels-how-to-read.md",
+      "section": "Separate_collection_and_processing",
+      "work_concepts_file": "WORK/Me_and_the_planet/Separate_collection_and_processing/concepts.json"
+    },
+
+    {
+      "name": "Нужна ли мне еще одна футболка",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/do-i-need-another-t-shirt.md",
+      "section": "Conscious_consumption",
+      "work_concepts_file": "WORK/Me_and_the_planet/Conscious_consumption/concepts.json"
+    },
+    {
+      "name": "Fast fashion — почему это проблема",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/fast-fashion-why-it-is-a-problem.md",
+      "section": "Conscious_consumption",
+      "work_concepts_file": "WORK/Me_and_the_planet/Conscious_consumption/concepts.json"
+    },
+    {
+      "name": "Ремонт вместо выброса",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/repair-instead-of-throwing-away.md",
+      "section": "Conscious_consumption",
+      "work_concepts_file": "WORK/Me_and_the_planet/Conscious_consumption/concepts.json"
+    },
+    {
+      "name": "Секонд-хенды и свопы: модно и экологично",
+      "file": "WEB/Me_and_the_planet/Conscious_consumption/concept/second-hand-and-swaps.md",
+      "section": "Conscious_consumption",
+      "work_concepts_file": "WORK/Me_and_the_planet/Conscious_consumption/concepts.json"
+    },
+
+    {
+      "name": "Красная книга и исчезающие виды",
+      "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/red-book-and-endangered-species.md",
+      "section": "Animals_and_nature",
+      "work_concepts_file": "WORK/Me_and_the_planet/Animals_and_nature/concepts.json"
+    },
+    {
+      "name": "Как помочь бездомным животным",
+      "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/how-to-help-stray-animals.md",
+      "section": "Animals_and_nature",
+      "work_concepts_file": "WORK/Me_and_the_planet/Animals_and_nature/concepts.json"
+    },
+    {
+      "name": "Лесные пожары — кто виноват",
+      "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/wildfires-who-is-to-blame.md",
+      "section": "Animals_and_nature",
+      "work_concepts_file": "WORK/Me_and_the_planet/Animals_and_nature/concepts.json"
+    },
+    {
+      "name": "Заповедники и национальные парки",
+      "file": "WEB/Me_and_the_planet/Animals_and_nature/concept/reserves-and-national-parks.md",
+      "section": "Animals_and_nature",
+      "work_concepts_file": "WORK/Me_and_the_planet/Animals_and_nature/concepts.json"
+    },
+
+    {
+      "name": "Глобальное потепление — это реально?",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/global-warming-is-it-real.md",
+      "section": "Climate_and_the_future",
+      "work_concepts_file": "WORK/Me_and_the_planet/Climate_and_the_future/concepts.json"
+    },
+    {
+      "name": "Природные катастрофы",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/natural-disasters.md",
+      "section": "Climate_and_the_future",
+      "work_concepts_file": "WORK/Me_and_the_planet/Climate_and_the_future/concepts.json"
+    },
+    {
+      "name": "Что будет через 50 лет",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/what-will-happen-in-50-years.md",
+      "section": "Climate_and_the_future",
+      "work_concepts_file": "WORK/Me_and_the_planet/Climate_and_the_future/concepts.json"
+    },
+    {
+      "name": "Можно ли остановить изменения",
+      "file": "WEB/Me_and_the_planet/Climate_and_the_future/concept/stop_climate_change.md",
+      "section": "Climate_and_the_future",
+      "work_concepts_file": "WORK/Me_and_the_planet/Climate_and_the_future/concepts.json"
+    },
+
+    {
+      "name": "10 простых эко-привычек",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/10-simple-eco-habits.md",
+      "section": "What_can_I_do_right_now",
+      "work_concepts_file": "WORK/Me_and_the_planet/What_can_I_do_right_now/concepts.json"
+    },
+    {
+      "name": "Как вдохновить друзей и семью",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/how-to-inspire-friends-and-family.md",
+      "section": "What_can_I_do_right_now",
+      "work_concepts_file": "WORK/Me_and_the_planet/What_can_I_do_right_now/concepts.json"
+    },
+    {
+      "name": "Баланс экологии и жизни",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/balance_of_ecology_and_life.md",
+      "section": "What_can_I_do_right_now",
+      "work_concepts_file": "WORK/Me_and_the_planet/What_can_I_do_right_now/concepts.json"
+    },
+    {
+      "name": "Мой личный экоплан",
+      "file": "WEB/Me_and_the_planet/What_can_I_do_right_now/concept/my-personal-eco-plan.md",
+      "section": "What_can_I_do_right_now",
+      "work_concepts_file": "WORK/Me_and_the_planet/What_can_I_do_right_now/concepts.json"
+    }
+  ]
+}

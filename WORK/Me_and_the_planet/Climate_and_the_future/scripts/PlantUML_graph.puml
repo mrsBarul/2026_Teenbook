@@ -1,0 +1,63 @@
+@startuml
+skinparam backgroundColor white
+skinparam classBackgroundColor white
+skinparam classBorderColor black
+skinparam ArrowColor black
+skinparam DefaultFontName Arial
+skinparam DefaultFontSize 12
+skinparam shadowing false
+skinparam linetype ortho
+
+title Онтология темы "Климат и будущее"
+
+class "Человек" as Human
+class "CO₂ выбросы" as CO2Emissions
+class "Глобальное потепление" as GlobalWarming
+class "Изменение климата" as ClimateChange
+class "Природные катастрофы" as NaturalDisasters
+class "Таяние ледников" as GlacierMelting
+class "Повышение уровня моря" as SeaLevelRise
+class "Экстремальная погода" as ExtremeWeather
+class "Возобновляемая энергия" as RenewableEnergy
+class "Углеродная нейтральность" as CarbonNeutrality
+class "Геоинженерия" as Geoengineering
+class "Климатические беженцы" as ClimateRefugees
+class "IPCC" as IPCC
+class "Парижское соглашение" as ParisAgreement
+class "Будущее Земли" as EarthFuture
+class "Экологический кризис" as EcoCrisis
+
+Human --> CO2Emissions : создаёт
+CO2Emissions --> GlobalWarming : вызывает
+GlobalWarming --> ClimateChange : приводит к
+ClimateChange --> NaturalDisasters : усиливает
+ClimateChange --> GlacierMelting : ускоряет
+ClimateChange --> ExtremeWeather : провоцирует
+GlacierMelting --> SeaLevelRise : вызывает
+
+RenewableEnergy --> CO2Emissions : снижает
+CarbonNeutrality --> CO2Emissions : устраняет
+Geoengineering --> ClimateChange : пытается контролировать
+ParisAgreement --> RenewableEnergy : продвигает
+IPCC --> EarthFuture : прогнозирует
+
+NaturalDisasters --> ClimateRefugees : создаёт
+ClimateChange --> EcoCrisis : формирует
+RenewableEnergy --> EcoCrisis : предотвращает
+ClimateRefugees --> EarthFuture : влияет на
+
+note right of ClimateChange
+**Центральное понятие темы:**
+Изменение климата (Q8074) связывает
+все аспекты: причины (CO₂),
+последствия (катастрофы),
+решения (renewables)
+и прогнозы будущего
+end note
+
+note top of Human
+**Источник кризиса и спасения**
+Человеческий фактор (Q8074)
+end note
+
+@enduml
