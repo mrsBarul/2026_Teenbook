@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "name": "Стиральная машина, плита, микроволновка — как пользоваться",
+      "file": "how_to_use_them.md"
+    },
+    {
+      "name": "Что можно и нельзя в них делать",
+      "file": "their_usage_rules.md"
+    },
+    {
+      "name": "Техника безопасности",
+      "file": "safety_precautions.md"
+    },
+    {
+      "name": "Мелкий ремонт своими руками",
+      "file": "diy_repair.md"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q644302"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "субъективные причины действия"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мотивация"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1079196"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "указание компьютерной программе"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "команда"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3236990"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "целостность сознательного и бессознательного в человеке"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "самость"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4368245"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "телесериал 1983 года Евгения Ташкова"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Подросток"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6316865"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "понятие о должном"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "справедливость"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q205961"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "опытное знание, условие для деятельности"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "умение"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8436"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "супруги, родственники, сожители, тесно связанные люди"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "семья"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2421951"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "забота"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Lexeme:L106803"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Lexeme:L106803"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Lexeme:L136354"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Lexeme:L136354"
+        }
+      }
+    ]
+  }
+}

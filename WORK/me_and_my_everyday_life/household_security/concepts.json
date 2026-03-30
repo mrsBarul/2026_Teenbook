@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Что нельзя оставлять включенным",
+      "file": "dont_leave_them_on.md"
+    },
+    {
+      "name": "Если прорвало трубу/запах газа",
+      "file": "gas_leaks_and_broken_pipes.md"
+    },
+    {
+      "name": "Аптечка: что где лежит",
+      "file": "first_aid_kit.md"
+    },
+    {
+      "name": "Можно ли открывать дверь незнакомцам",
+      "file": "dealing_with_strangers.md"
+    },
+    {
+      "name": "Один дома — правила выживания",
+      "file": "home_alone.md"
+    }
+  ]
+}

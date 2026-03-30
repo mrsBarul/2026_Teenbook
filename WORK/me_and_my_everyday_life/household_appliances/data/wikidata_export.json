@@ -1,0 +1,136 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q212920"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "техника, используемая в быту"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бытовая техника"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2144962"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "комплекс мероприятий по восстановлению работоспособного или исправного состояния какого-либо объекта и/или восстановлению его ресурса"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ремонт"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2251595"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отражение нападения"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "защита"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2578402"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "инструменты, используемые при строительстве"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ручной инструмент"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3236990"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "целостность сознательного и бессознательного в человеке"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "самость"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80994"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "особь, достигшая половой зрелости"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взрослый"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12725"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "совокупность явлений, обусловленных существованием, взаимодействием и движением электрических зарядов"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электричество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60971774"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Специальные правила безопасности"
+        }
+      }
+    ]
+  }
+}
