@@ -1,0 +1,30 @@
+Тема: Моя самооценка и идентификация
+Проект: 2026_TeenBook_samootsenka / moya_samootsenka_i_identifikaciya
+
+SPARQL-запрос для https://query.wikidata.org/ (см. также scripts/sparql_query.py и data/moya_samootsenka_i_identifikaciya.json).
+
+Подобранные понятия (проверены по поиску на Wikidata, QID для связей в запросе):
+
+| Понятие (рус.)        | Wikidata QID | Примечание                          |
+|-----------------------|-------------|-------------------------------------|
+| Самооценка            | Q120675     | Self-esteem                         |
+| Самообраз / концепт «я» | Q185573   | Self-concept                        |
+| Личная идентичность   | Q175862     | Personal identity (общее понятие)   |
+| Социальное сравнение  | Q1963141    | Social comparison theory            |
+| Социальная идентичность | Q2717571  | Social identity theory              |
+| Подростковый возраст  | Q1860       | Adolescence                         |
+
+Идентификаторы статей (concepts/*.md) для отчёта:
+
+- kto_ya_realnyi_i_identichnost.md — «Кто я?», самооценка, идентичность
+- mnenie_drugih_pochemu_vazhno.md — важность мнения других
+- sravnenie_s_drugimi.md — сравнение с другими
+- byt_soboi_kogda_ne_znaesh_sebya.md — быть собой, самопознание
+- silnye_storony_i_klassnost_bez_laykov.md — сильные стороны, ценность без лайков
+
+Связь вопросов и статей:
+- Вопросы 1 и частично 4 → статья про «кто я» и идентичность
+- Вопрос 2 → мнение других
+- Вопрос 3 → сравнение с другими
+- Вопрос 4 → быть собой (отдельная статья)
+- Вопросы 5 и 6 → одна статья про сильные стороны и «классность» без лайков

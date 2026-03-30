@@ -1,0 +1,77 @@
+{
+  "description": "Ответ Wikidata Query Service. Файл перезаписывается при запуске scripts/sparql_query.py. Запрос ниже выгружает метки выбранных QID (прямые ребра между ними в Wikidata обычно отсутствуют). Граф в конце скрипта по-прежнему синтетический.",
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120675"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "list of Swiss Nobel Laureates"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q175862"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q175862"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185573"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Чешские земли"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1963141"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nada Saktay"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2717571"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q2717571"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1860"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "английский язык"
+        }
+      }
+    ]
+  }
+}
