@@ -1,0 +1,26 @@
+title: TeenBook
+description: Энциклопедия знаний
+baseurl: "/2026_Teenbook"
+url: "https://mrsbarul.github.io"
+
+# Включаем все файлы в папке WEB
+include:
+  - WEB
+
+# Разрешаем обработку файлов без frontmatter
+defaults:
+  - scope:
+      path: "WEB"
+    values:
+      layout: "article"
+      auto_title: true
+
+# Настройки Markdown  
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
