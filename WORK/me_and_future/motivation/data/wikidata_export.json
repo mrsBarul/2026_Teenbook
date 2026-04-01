@@ -1,0 +1,26 @@
+{
+  "project": "Я и будущее (выбор пути): Мотивация",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q194112",
+      "conceptLabel": "моральная ценность",
+      "description": "важность, значимость, польза, полезность чего-либо"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q476300",
+      "conceptLabel": "соперничество",
+      "description": "соперничество между организмами, людьми, группами и т. д."
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q644302",
+      "conceptLabel": "мотивация",
+      "description": "субъективные причины действия"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q829183",
+      "conceptLabel": "призвание",
+      "description": "внутреннее влечение к какому-нибудь делу, какой-нибудь профессии"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "project": "Я и будущее (выбор пути): Цели и мечты",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q2995644",
+      "conceptLabel": "результат",
+      "description": "итог какого-либо действия либо события"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q4503831",
+      "conceptLabel": "цель",
+      "description": "то, для чего или ради чего; предмет стремления"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q6028924",
+      "conceptLabel": "мечта",
+      "description": "вид воображения"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q16874480",
+      "conceptLabel": "Самореализация",
+      "description": "реализация потенциала личности"
+    }
+  ]
+}

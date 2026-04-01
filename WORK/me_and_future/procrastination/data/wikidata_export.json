@@ -1,0 +1,31 @@
+{
+  "project": "Я и будущее (выбор пути): Прокрастинация",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q330104",
+      "conceptLabel": "Прокрастинация",
+      "description": "постоянное откладывание дел"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q473596",
+      "conceptLabel": "самооценка",
+      "description": "субъективная оценка индивидом самого себя"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q154430",
+      "conceptLabel": "тревога",
+      "description": "эмоция, возникающая в ожидании неопределённой опасности или неблагоприятного развития событий"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q484",
+      "conceptLabel": "лень",
+      "description": "отсутствие или недостаток трудолюбия"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q9415",
+      "conceptLabel": "эмоция",
+      "description": "психический процесс, положительное или отрицательное отношение к окружающей действительности или себе"
+    }
+  ]
+}

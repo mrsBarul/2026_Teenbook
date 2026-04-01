@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Как заставить себя что-то делать",
+      "file": "getting-yourself-to-act.md"
+    },
+    {
+      "name": "Мотивация на короткую и длинную дистанцию",
+      "file": "short-and-long-term-motivation.md"
+    },
+    {
+      "name": "Когда ничего не хочется",
+      "file": "when-nothing-feels-worth-it.md"
+    },
+    {
+      "name": "Кто или что меня вдохновляет",
+      "file": "what-inspires-me.md"
+    },
+    {
+      "name": "Похвала и награда: как себя поддерживать",
+      "file": "self-reward-and-praise.md"
+    }
+  ]
+}

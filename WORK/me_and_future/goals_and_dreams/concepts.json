@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Мечта и цель: в чем разница",
+      "file": "dream-vs-goal.md"
+    },
+    {
+      "name": "Как ставить цели, чтобы не бросить",
+      "file": "setting-goals-that-stick.md"
+    },
+    {
+      "name": "План на год, на 5 лет — это работает?",
+      "file": "long-term-planning.md"
+    },
+    {
+      "name": "Что делать, если мечта изменилась",
+      "file": "when-your-dream-changes.md"
+    },
+    {
+      "name": "Мотивация vs дисциплина",
+      "file": "motivation-vs-discipline.md"
+    }
+  ]
+}

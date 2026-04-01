@@ -1,0 +1,26 @@
+{
+  "project": "Я и будущее (выбор пути): Самоорганизация",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q309100",
+      "conceptLabel": "планирование",
+      "description": "моделирование будущего"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q1034411",
+      "conceptLabel": "эффективность",
+      "description": "достижение результата с наименьшей затратой усилий"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q1315911",
+      "conceptLabel": "дисциплина",
+      "description": "самоконтроль"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q2995644",
+      "conceptLabel": "результат",
+      "description": "итог какого-либо действия либо события"
+    }
+  ]
+}
