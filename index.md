@@ -1,7 +1,20 @@
 ---
 layout: default
-title: TeenBook
 ---
+
+# Тест Jekyll
+
+Текущее время: {{ site.time }}
+
+Количество статей: {{ site.pages | size }}
+
+Список всех файлов:
+<ul>
+{% for page in site.pages %}
+  <li>{{ page.path }} ({{ page.ext }})</li>
+{% endfor %}
+</ul>
+
 
 # 📚 TeenBook
 

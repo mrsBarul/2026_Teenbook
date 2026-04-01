@@ -3,19 +3,18 @@ description: Энциклопедия знаний
 baseurl: "/2026_Teenbook"
 url: "https://mrsbarul.github.io"
 
-# Включаем все файлы в папке WEB
+# Включаем папку WEB
 include:
   - WEB
 
-# Разрешаем обработку файлов без frontmatter
+# Включаем обработку всех .md файлов
 defaults:
   - scope:
       path: "WEB"
     values:
       layout: "article"
-      auto_title: true
 
-# Настройки Markdown  
+# Настройки Markdown
 markdown: kramdown
 kramdown:
   input: GFM
