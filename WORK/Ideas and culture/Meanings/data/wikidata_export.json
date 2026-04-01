@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183046"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "значение"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смысл, который выражается в сообщении, слове или символе"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q206287"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цитата"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дословная выдержка из текста или речи"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q928865"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "арт-терапия"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подход, использующий творчество для психологической поддержки"
+        }
+      }
+    ]
+  }
+}

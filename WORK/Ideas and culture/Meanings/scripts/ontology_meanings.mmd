@@ -1,0 +1,23 @@
+classDiagram
+    class Teen
+    class Meaning
+    class Interpretation
+    class Context
+    class Symbol
+    class Quote
+    class Emotion
+    class Art
+    class ArtTherapy
+    class PersonalExperience
+    class Values
+
+    Teen --> Meaning : ищет
+    Meaning --> Interpretation : раскрывается через
+    Interpretation --> Context : зависит от
+    Symbol --> Interpretation : направляет
+    Quote --> Values : влияет на
+    Art --> Emotion : вызывает
+    Emotion --> PersonalExperience : связывается с
+    ArtTherapy --> Emotion : помогает прожить
+    PersonalExperience --> Meaning : углубляет
+    Values --> Meaning : уточняют

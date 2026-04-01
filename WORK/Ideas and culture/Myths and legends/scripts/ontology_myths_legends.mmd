@@ -1,0 +1,23 @@
+classDiagram
+    class Teen
+    class Myth
+    class UrbanLegend
+    class Folklore
+    class Superstition
+    class Ritual
+    class Slang
+    class InternetStory
+    class Community
+    class Media
+    class CriticalThinking
+
+    Teen --> Slang : использует
+    Myth --> UrbanLegend : превращается в
+    UrbanLegend --> InternetStory : распространяется как
+    Folklore --> Community : объединяет
+    Superstition --> Ritual : порождает
+    Ritual --> Community : закрепляется в
+    Media --> InternetStory : ускоряет
+    Community --> Slang : поддерживает
+    CriticalThinking --> Myth : проверяет
+    Teen --> CriticalThinking : развивает

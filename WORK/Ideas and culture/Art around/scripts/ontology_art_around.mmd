@@ -1,0 +1,55 @@
+classDiagram
+    class Teen {
+    }
+    class ArtAround {
+    }
+    class Graffiti {
+    }
+    class StreetArt {
+    }
+    class PublicSpace {
+    }
+    class Vandalism {
+    }
+    class MuseumArt {
+    }
+    class Museum {
+    }
+    class Exhibit {
+    }
+    class Meme {
+    }
+    class InternetCulture {
+    }
+    class Perception {
+    }
+    class Rules {
+    }
+    class Community {
+    }
+    class Emotion {
+    }
+
+    ArtAround --> Graffiti : включает
+    ArtAround --> MuseumArt : включает
+    ArtAround --> Meme : включает
+
+    Graffiti --> StreetArt : форма
+    Graffiti --> PublicSpace : размещено в
+    Graffiti --> Perception : воспринимается как
+    Graffiti --> Vandalism : может считаться
+    StreetArt --> Community : создаётся сообществами
+
+    MuseumArt --> Museum : выставляется в
+    Museum --> PublicSpace : часть пространства
+    Museum --> Rules : регулируется
+    Exhibit --> MuseumArt : пример
+
+    Meme --> InternetCulture : часть
+    Meme --> Emotion : вызывает
+    Meme --> Perception : меняет отношение к
+
+    Teen --> ArtAround : наблюдает
+    Teen --> Perception : формирует
+    Teen --> Community : участвует в
+    Rules --> Perception : влияет на

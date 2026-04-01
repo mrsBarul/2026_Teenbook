@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8434"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "образование"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "передача знаний и навыков"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q205961"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "умение"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "способность выполнять действие благодаря обучению и практике"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15910354"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "soft skills"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гибкие навыки общения, самоорганизации и командной работы"
+        }
+      }
+    ]
+  }
+}

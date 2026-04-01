@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Почему мы ищем смысл в песнях и фильмах",
+      "file": "why_we_seek_meaning_in_art.md"
+    },
+    {
+      "name": "Что такое \"глубокий смысл\" и где его искать",
+      "file": "what_is_deep_meaning.md"
+    },
+    {
+      "name": "Цитаты, которые меняют жизнь",
+      "file": "quotes_that_change_life.md"
+    },
+    {
+      "name": "Когда искусство лечит",
+      "file": "when_art_heals.md"
+    },
+    {
+      "name": "Мое любимое произведение и почему оно важное",
+      "file": "my_favorite_work_and_why.md"
+    }
+  ]
+}

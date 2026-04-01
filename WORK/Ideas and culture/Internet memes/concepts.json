@@ -1,0 +1,16 @@
+{
+  "concepts": [
+    {
+      "name": "Почему мы смеемся над одним и тем же",
+      "file": "why_we_laugh_at_same_things.md"
+    },
+    {
+      "name": "Мемы как язык поколения",
+      "file": "memes_as_generation_language.md"
+    },
+    {
+      "name": "Создание мемов — это творчество",
+      "file": "meme_creation_is_creativity.md"
+    }
+  ]
+}

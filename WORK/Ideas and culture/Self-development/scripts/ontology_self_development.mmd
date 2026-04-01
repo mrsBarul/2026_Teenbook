@@ -1,0 +1,23 @@
+classDiagram
+    class Teen
+    class SelfDevelopment
+    class Goal
+    class LearningPlan
+    class HardSkills
+    class SoftSkills
+    class Projects
+    class Motivation
+    class Discipline
+    class Progress
+    class Reflection
+
+    Teen --> SelfDevelopment : строит
+    SelfDevelopment --> Goal : включает
+    Goal --> LearningPlan : формирует
+    LearningPlan --> HardSkills : развивает
+    LearningPlan --> SoftSkills : развивает
+    Projects --> HardSkills : проверяют
+    Projects --> SoftSkills : тренируют
+    Motivation --> Discipline : поддерживает
+    Discipline --> Progress : приводит к
+    Progress --> Reflection : усиливает

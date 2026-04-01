@@ -1,0 +1,37 @@
+classDiagram
+    class Teen {
+    }
+    class MoviesAndSeries {
+    }
+    class FictionalStory {
+    }
+    class FictionalCharacter {
+    }
+    class Empathy {
+    }
+    class Idol {
+    }
+    class Escapism {
+    }
+    class BingeWatching {
+    }
+    class RealLife {
+    }
+
+    MoviesAndSeries --> FictionalStory : состоит из
+    FictionalStory --> FictionalCharacter : содержит
+
+    FictionalCharacter --> Empathy : вызывает
+    Empathy --> Teen : затрагивает чувства
+
+    FictionalCharacter --> Idol : может стать
+    Idol --> Teen : влияет на поведение
+
+    MoviesAndSeries --> Escapism : даёт возможность
+    Escapism --> Teen : помогает пережить трудности
+
+    MoviesAndSeries --> BingeWatching : приводит к
+    BingeWatching --> RealLife : вытесняет
+
+    Teen --> MoviesAndSeries : смотрит
+    Teen --> RealLife : живёт в

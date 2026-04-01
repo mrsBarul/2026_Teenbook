@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q170658"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "творчество"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "процесс создания нового и ценного"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47728"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хобби"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "занятие в свободное время для удовольствия и развития"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124752244"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "self-expression"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "выражение мыслей и чувств через действия, искусство и речь"
+        }
+      }
+    ]
+  }
+}

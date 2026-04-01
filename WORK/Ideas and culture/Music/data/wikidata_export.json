@@ -1,0 +1,56 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188451"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род музыки, музыкальных произведений, отличающийся особыми, только ему свойственными стилистическими признаками"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "музыкальный жанр"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q638"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "искусство, средство воплощения художественных образов"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "музыка"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1632678"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Синдром Маллори — Вейсса"
+        }
+      }
+    ]
+  }
+}

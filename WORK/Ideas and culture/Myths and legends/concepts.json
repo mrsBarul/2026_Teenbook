@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Городские страшилки нашего района",
+      "file": "local_urban_legends.md"
+    },
+    {
+      "name": "Поверья и приметы: работают или нет",
+      "file": "superstitions_work_or_not.md"
+    },
+    {
+      "name": "Сленг и тайные языки подростков",
+      "file": "teen_slang_and_secret_languages.md"
+    },
+    {
+      "name": "Фольклор интернета: истории, которые пересказывают",
+      "file": "internet_folklore_retold_stories.md"
+    },
+    {
+      "name": "Мифы о прошлом (что мы думали про 90-е)",
+      "file": "myths_about_the_90s.md"
+    }
+  ]
+}

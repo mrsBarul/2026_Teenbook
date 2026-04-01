@@ -1,0 +1,33 @@
+classDiagram
+    class Teen {
+    }
+    class Reading {
+    }
+    class LowMotivation {
+    }
+    class Comics {
+    }
+    class Manga {
+    }
+    class YALiterature {
+    }
+    class Recognition {
+    }
+    class Format {
+    }
+
+    Teen --> Reading : относится к
+    Reading --> LowMotivation : может страдать
+
+    Reading --> Comics : включает
+    Reading --> Manga : включает
+    Reading --> YALiterature : включает
+
+    Comics --> Format : сочетает текст и картинку
+    Manga --> Format : сочетает текст и картинку
+
+    YALiterature --> Recognition : даёт эффект
+    Recognition --> Teen : ощущает «там как у меня»
+
+    Comics --> Reading : снижает порог входа
+    Manga --> Reading : снижает порог входа

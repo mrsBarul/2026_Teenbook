@@ -1,0 +1,34 @@
+classDiagram
+    class Teen {
+    }
+    class Music {
+    }
+    class SadMusic {
+    }
+    class EmotionRegulation {
+    }
+    class Fandom {
+    }
+    class Concert {
+    }
+    class Playlist {
+    }
+    class Identity {
+    }
+    class OnlineCommunity {
+    }
+
+    Music --> SadMusic : включает
+    Music --> Fandom : рождает
+    Music --> Concert : проявляется в
+
+    SadMusic --> EmotionRegulation : помогает
+    EmotionRegulation --> Teen : влияет на настроение
+
+    Fandom --> OnlineCommunity : живёт в
+    Concert --> Fandom : усиливает
+
+    Playlist --> Identity : выражает
+    Teen --> Playlist : собирает
+    Teen --> Music : слушает
+    Teen --> Fandom : вступает в

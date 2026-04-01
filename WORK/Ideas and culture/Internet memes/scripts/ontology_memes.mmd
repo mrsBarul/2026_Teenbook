@@ -1,0 +1,48 @@
+classDiagram
+    class Teen {
+    }
+    class InternetMeme {
+    }
+    class ViralContent {
+    }
+    class Humor {
+    }
+    class SocialMedia {
+    }
+    class MemeCreation {
+    }
+    class Creativity {
+    }
+    class MemeTemplate {
+    }
+    class Remix {
+    }
+    class GenerationLanguage {
+    }
+    class Communication {
+    }
+    class Identity {
+    }
+    class Community {
+    }
+    class Platform {
+    }
+
+    Teen --> InternetMeme : создаёт и потребляет
+    InternetMeme --> ViralContent : становится
+    InternetMeme --> Humor : основан на
+    InternetMeme --> SocialMedia : распространяется через
+
+    MemeCreation --> Creativity : требует
+    MemeCreation --> MemeTemplate : использует
+    MemeCreation --> Remix : включает
+
+    GenerationLanguage --> Communication : служит для
+    GenerationLanguage --> Identity : выражает
+    GenerationLanguage --> Community : объединяет
+
+    Teen --> GenerationLanguage : использует
+    Teen --> Community : принадлежит
+    Teen --> SocialMedia : активен в
+
+    Platform --> InternetMeme : распространяет

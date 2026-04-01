@@ -1,0 +1,17 @@
+{
+  "concepts": [
+    {
+      "name": "Почему мы любим грустные песни",
+      "file": "sad_songs.md"
+    },
+    {
+      "name": "Как музыка объединяет людей (фанаты, концерты)",
+      "file": "music_unites_people.md"
+    },
+    {
+      "name": "Мой плейлист как моя идентичность",
+      "file": "my_playlist_identity.md"
+    }
+  ]
+}
+

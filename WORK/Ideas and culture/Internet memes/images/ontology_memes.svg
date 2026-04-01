@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 510" width="870" height="510">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+    <style>
+      .class-box { fill: #e3f2fd; stroke: #1976d2; stroke-width: 2; rx: 8; }
+      .class-text { font-family: Arial, sans-serif; font-size: 12px; fill: #333; text-anchor: middle; }
+      .edge { stroke: #666; stroke-width: 1.5; fill: none; marker-end: url(#arrowhead); }
+      .edge-label { font-family: Arial, sans-serif; font-size: 10px; fill: #666; text-anchor: middle; }
+      .title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #333; text-anchor: middle; }
+    </style>
+  </defs>
+  
+  <text x="435.0" y="30" class="title">Internet Memes Ontology</text>
+  <path d="M 120.0 420 C 120.0 450, 540.0 180, 540.0 210" class="edge"/>
+  <text x="330.0" y="305.0" class="edge-label">создаёт и потребляет</text>
+  <path d="M 540.0 260 C 540.0 290, 330.0 340, 330.0 370" class="edge"/>
+  <text x="435.0" y="305.0" class="edge-label">становится</text>
+  <path d="M 540.0 260 C 540.0 290, 120.0 180, 120.0 210" class="edge"/>
+  <text x="330.0" y="225.0" class="edge-label">основан на</text>
+  <path d="M 540.0 260 C 540.0 290, 750.0 260, 750.0 290" class="edge"/>
+  <text x="645.0" y="265.0" class="edge-label">распространяется через</text>
+  <path d="M 750.0 260 C 750.0 290, 540.0 100, 540.0 130" class="edge"/>
+  <text x="645.0" y="185.0" class="edge-label">требует</text>
+  <path d="M 750.0 260 C 750.0 290, 120.0 260, 120.0 290" class="edge"/>
+  <text x="435.0" y="265.0" class="edge-label">использует</text>
+  <path d="M 750.0 260 C 750.0 290, 540.0 260, 540.0 290" class="edge"/>
+  <text x="645.0" y="265.0" class="edge-label">включает</text>
+  <path d="M 750.0 180 C 750.0 210, 120.0 100, 120.0 130" class="edge"/>
+  <text x="435.0" y="145.0" class="edge-label">служит для</text>
+  <path d="M 750.0 180 C 750.0 210, 330.0 180, 330.0 210" class="edge"/>
+  <text x="540.0" y="185.0" class="edge-label">выражает</text>
+  <path d="M 750.0 180 C 750.0 210, 330.0 100, 330.0 130" class="edge"/>
+  <text x="540.0" y="145.0" class="edge-label">объединяет</text>
+  <path d="M 120.0 420 C 120.0 450, 750.0 100, 750.0 130" class="edge"/>
+  <text x="435.0" y="265.0" class="edge-label">использует</text>
+  <path d="M 120.0 420 C 120.0 450, 330.0 100, 330.0 130" class="edge"/>
+  <text x="225.0" y="265.0" class="edge-label">принадлежит</text>
+  <path d="M 120.0 420 C 120.0 450, 750.0 260, 750.0 290" class="edge"/>
+  <text x="435.0" y="345.0" class="edge-label">активен в</text>
+  <path d="M 330.0 340 C 330.0 370, 540.0 180, 540.0 210" class="edge"/>
+  <text x="435.0" y="265.0" class="edge-label">распространяет</text>
+  <rect x="30" y="130" width="180" height="50" class="class-box"/>
+  <text x="120.0" y="159.0" class="class-text">Communication</text>
+  <rect x="240" y="130" width="180" height="50" class="class-box"/>
+  <text x="330.0" y="159.0" class="class-text">Community</text>
+  <rect x="450" y="130" width="180" height="50" class="class-box"/>
+  <text x="540.0" y="159.0" class="class-text">Creativity</text>
+  <rect x="660" y="130" width="180" height="50" class="class-box"/>
+  <text x="750.0" y="159.0" class="class-text">GenerationLanguage</text>
+  <rect x="30" y="210" width="180" height="50" class="class-box"/>
+  <text x="120.0" y="239.0" class="class-text">Humor</text>
+  <rect x="240" y="210" width="180" height="50" class="class-box"/>
+  <text x="330.0" y="239.0" class="class-text">Identity</text>
+  <rect x="450" y="210" width="180" height="50" class="class-box"/>
+  <text x="540.0" y="239.0" class="class-text">InternetMeme</text>
+  <rect x="660" y="210" width="180" height="50" class="class-box"/>
+  <text x="750.0" y="239.0" class="class-text">MemeCreation</text>
+  <rect x="30" y="290" width="180" height="50" class="class-box"/>
+  <text x="120.0" y="319.0" class="class-text">MemeTemplate</text>
+  <rect x="240" y="290" width="180" height="50" class="class-box"/>
+  <text x="330.0" y="319.0" class="class-text">Platform</text>
+  <rect x="450" y="290" width="180" height="50" class="class-box"/>
+  <text x="540.0" y="319.0" class="class-text">Remix</text>
+  <rect x="660" y="290" width="180" height="50" class="class-box"/>
+  <text x="750.0" y="319.0" class="class-text">SocialMedia</text>
+  <rect x="30" y="370" width="180" height="50" class="class-box"/>
+  <text x="120.0" y="399.0" class="class-text">Teen</text>
+  <rect x="240" y="370" width="180" height="50" class="class-box"/>
+  <text x="330.0" y="399.0" class="class-text">ViralContent</text>
+</svg>

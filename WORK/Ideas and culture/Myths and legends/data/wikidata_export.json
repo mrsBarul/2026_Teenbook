@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189349"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "городская легенда"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "современная фольклорная история, которую пересказывают как правду"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133182"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "суеверие"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вера в сверхъестественные причины событий"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8102"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сленг"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "слова и выражения, характерные для определенной группы людей"
+        }
+      }
+    ]
+  }
+}

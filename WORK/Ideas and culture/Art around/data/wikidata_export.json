@@ -1,0 +1,77 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2927074"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиаобъект, спонтанно приобретающий популярность, распространяясь в Интернете"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-мем"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207694"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пространство, предназначенное для демонстрации изобразительного искусства"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "художественный музей"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17514"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображения или надписи, выполненные на стенах или других поверхностях в публичных местах"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "граффити"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17516"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр искусства"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стрит-арт"
+        }
+      }
+    ]
+  }
+}

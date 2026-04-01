@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Умные — это скучные? Мифы про интеллектуалов",
+      "file": "smart_equals_boring_myth.md"
+    },
+    {
+      "name": "Что смотреть/читать, чтобы стать интереснее",
+      "file": "what_to_watch_read_to_be_interesting.md"
+    },
+    {
+      "name": "Курсы и лекции бесплатно — где искать",
+      "file": "free_courses_and_lectures.md"
+    },
+    {
+      "name": "Hard skills vs soft skills для подростка",
+      "file": "hard_vs_soft_skills_for_teens.md"
+    },
+    {
+      "name": "Саморазвитие ради себя или ради понтов",
+      "file": "self_development_motivation.md"
+    }
+  ]
+}

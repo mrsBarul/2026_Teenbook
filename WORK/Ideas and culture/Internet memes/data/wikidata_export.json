@@ -1,0 +1,360 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description",
+      "instance_of",
+      "instance_ofLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2001305"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Интернет-мем"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вид информации, приобретший широкую известность в интернет-среде"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1166966"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мем"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1523883"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Вирусное видео"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "видеоролик, который становится популярным через процесс вирусного распространения"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2001305"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-мем"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1080288"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Image macro"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображение с текстом, ставшее мемом"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2001305"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-мем"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q866"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "YouTube"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сервис видеохостинга от Google LLC"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q559856"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "видеохостинг"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219523"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "TikTok"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "китайская социальная сеть для обмена короткими видео"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220982"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Telegram"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мессенджер для обмена сообщениями и медиафайлами"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1810858"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мессенджер"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22697"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ВКонтакте"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "российская социальная сеть"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1136"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Reddit"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальный новостной сайт"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6576792"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-сообщество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q206843"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "4chan"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "американский имиджборд"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6576792"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-сообщество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1047113"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Know Your Meme"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-сайт, документирующий интернет-мемы"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35127"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-сайт"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11022"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Карикатура"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "комическое изображение с преувеличенными чертами"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3305213"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изобразительное искусство"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189819"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Мультфильм"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "форма анимационного искусства"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1166966"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мем"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1226219"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сатира"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "художественный приём комического осмеяния"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1810858"
+        },
+        "instance_ofLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр искусства"
+        }
+      }
+    ]
+  },
+  "query_info": {
+    "description": "SPARQL-запрос для извлечения знаний о мемах и связанных понятиях из Wikidata",
+    "entities_searched": [
+      "Internet meme (Q2001305)",
+      "Meme (Q1166966)",
+      "Viral video (Q1523883)",
+      "Image macro (Q1080288)",
+      "YouTube (Q866)",
+      "TikTok (Q219523)",
+      "Telegram (Q220982)",
+      "VK (Q22697)",
+      "Reddit (Q1136)",
+      "4chan (Q206843)",
+      "Know Your Meme (Q1047113)",
+      "Caricature (Q11022)",
+      "Cartoon (Q189819)",
+      "Satire (Q1226219)"
+    ],
+    "timestamp": "2026-03-20"
+  }
+}

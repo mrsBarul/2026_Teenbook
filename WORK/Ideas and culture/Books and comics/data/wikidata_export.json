@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21198342"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "серия комиксов, использующих японские художественные традиции и, как правило, издающихся в Японии"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "серия манги"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1233720"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "произведения, написанные для молодых людей"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковая литература"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1004"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рисованная история, рассказ в картинках"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "комикс"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5398426"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "набор передач, объединённых последовательным сюжетом или общим замыслом"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "телесериал"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95074"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "участник действия в произведении искусства (литература, кинематограф, живопись)"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "персонаж в искусстве"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9418"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "наука, изучающая психику и психическую деятельность человека и групп людей"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психология"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17156398"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "каменный крест"
+        }
+      }
+    ]
+  }
+}

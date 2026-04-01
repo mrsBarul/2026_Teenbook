@@ -1,0 +1,23 @@
+classDiagram
+    class Teen
+    class Creativity
+    class SelfExpression
+    class FearOfJudgment
+    class Feedback
+    class Confidence
+    class Hobby
+    class Skill
+    class Practice
+    class Portfolio
+    class Career
+
+    Teen --> Creativity : развивает
+    Creativity --> SelfExpression : помогает
+    FearOfJudgment --> SelfExpression : может мешать
+    Feedback --> Confidence : укрепляет
+    Confidence --> SelfExpression : поддерживает
+    Hobby --> Skill : развивает
+    Practice --> Skill : тренирует
+    Skill --> Portfolio : формирует
+    Portfolio --> Career : ведёт к
+    Teen --> Hobby : выбирает

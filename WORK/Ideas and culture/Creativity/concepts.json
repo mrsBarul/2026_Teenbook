@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Я не умею рисовать — могу ли я быть творческим",
+      "file": "not_good_at_drawing_still_creative.md"
+    },
+    {
+      "name": "Фоткать, строгать, писать, танцевать — зачем это",
+      "file": "why_create_in_different_forms.md"
+    },
+    {
+      "name": "Творчество как способ высказаться",
+      "file": "creativity_as_self_expression.md"
+    },
+    {
+      "name": "Страх оценки: почему стыдно показывать свое",
+      "file": "fear_of_judgment.md"
+    },
+    {
+      "name": "Хобби, которое станет профессией",
+      "file": "hobby_to_career.md"
+    }
+  ]
+}
