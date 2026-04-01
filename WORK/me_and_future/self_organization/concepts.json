@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Ежедневники и планировщики — для кого это",
+      "file": "planners-who-they-are-for.md"
+    },
+    {
+      "name": "Тайм-менеджмент для подростка",
+      "file": "teen-time-management.md"
+    },
+    {
+      "name": "Как всё успевать и не выгорать",
+      "file": "doing-it-all-without-burnout.md"
+    },
+    {
+      "name": "Приоритеты: что важнее прямо сейчас",
+      "file": "setting-priorities.md"
+    },
+    {
+      "name": "Цифровые помощники vs бумага",
+      "file": "digital-tools-vs-paper.md"
+    }
+  ]
+}

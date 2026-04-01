@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Почему я делаю всё, кроме важного",
+      "file": "avoiding-what-matters.md"
+    },
+    {
+      "name": "\"С понедельника начну\" — почему не получается",
+      "file": "starting-monday-trap.md"
+    },
+    {
+      "name": "Как заставить себя делать уроки",
+      "file": "getting-homework-done.md"
+    },
+    {
+      "name": "Лень — это враг или защита",
+      "file": "laziness-enemy-or-protection.md"
+    },
+    {
+      "name": "Техники, которые реально работают",
+      "file": "techniques-that-actually-work.md"
+    }
+  ]
+}
