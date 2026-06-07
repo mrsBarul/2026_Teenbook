@@ -1,6 +1,6 @@
 # Маршрут
 
-Маршрут - это план твоего пути. В [путешествии](puteshestvie.md) это список городов и достопримечательностей. В [походе](../lagerya_pokhody_ekspeditsii/concepts/pokhod.md) - трек по карте с точками ночёвок. В [экспедиции](../lagerya_pokhody_ekspeditsii/concepts/ekspeditsiya.md) - сетка точек сбора материала.
+Маршрут - это план твоего пути. В [путешествии](./puteshestvie.md) это список городов и достопримечательностей. В [походе](../lagerya_pokhody_ekspeditsii/concepts/pokhod.md) - трек по карте с точками ночёвок. В [экспедиции](../lagerya_pokhody_ekspeditsii/concepts/ekspeditsiya.md) - сетка точек сбора материала.
 
 Маршрут можно построить самому с помощью карт (Google Maps, Maps.me, OpenStreetMap) или найти готовый в интернете. Для первого раза лучше взять готовый маршрут - так меньше шансов ошибиться.
 
