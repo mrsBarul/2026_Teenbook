@@ -6,7 +6,7 @@
 
 ## Темы раздела
 
-- [Мое тело меняется](./moe_telo_menyaetsa/concepts/index.md)
+- [Мое тело меняется](./moe_telo_menyaetsa/index.md)
 - [Мое половое воспитание](./moe_polovoe_vospitanie/index.md)
 - [Моя внешность](./moya_vneshnost/index.md)
 - [Мои зависимости](./moi_zavisimosti/index.md)
